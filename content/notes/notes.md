@@ -20,4 +20,3 @@ title: Notes
 - [Scout](/notes/scout)
 - [Corsi di Collegio](/notes/corsi_di_collegio)
 - [DnD](/notes/dnd)
-- [xCool](/notes/2023-03-21_xcool)
