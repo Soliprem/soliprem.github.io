@@ -1,2 +1,2 @@
 # Oscar Wilde
-[Opere](Opere_Wilde)  
+[Opere](/notes/Opere_Wilde)  

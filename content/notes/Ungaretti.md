@@ -1,5 +1,5 @@
 # Ungaretti
-[Vita](vita_Ungaretti)  
-[Poetica](Poetica_Ungaretti)  
-Antesiniano dell' [Ermetismo](Ermetismo)  
-[Opere](Opere_Ungaretti)  
+[Vita](/notes/vita_Ungaretti)  
+[Poetica](/notes/Poetica_Ungaretti)  
+Antesiniano dell' [Ermetismo](/notes/Ermetismo)  
+[Opere](/notes/Opere_Ungaretti)  

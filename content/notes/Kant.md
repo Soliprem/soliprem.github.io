@@ -1,4 +1,4 @@
 # Kant
-[Critica_alla_ragion_pura](Critica_alla_ragion_pura)  
-[Critica_alla_ragion_pratica](Critica_alla_ragion_pratica)  
-[Kant_frasi](Kant_frasi)  
+[Critica_alla_ragion_pura](/notes/Critica_alla_ragion_pura)  
+[Critica_alla_ragion_pratica](/notes/Critica_alla_ragion_pratica)  
+[Kant_frasi](/notes/Kant_frasi)  

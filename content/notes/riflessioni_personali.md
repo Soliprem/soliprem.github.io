@@ -1,9 +1,9 @@
 # Riflessioni Personali
-- [Riflessione_sull'uomo_moderno](Riflessione_sull'uomo_moderno)  
-- [Riflessioni_sull'asimmetria_di_Genere](Riflessioni_sull'asimmetria_di_Genere)  
-- [Suicide_note_of_a_lost_errand_man](Suicide_note_of_a_lost_errand_man)  
-- [Dissonance](dissonance)
-- [Purity(Brainstorming)](Purity_ideas)
-- [repressione](repressione)
+- [Riflessione_sull'uomo_moderno](/notes/riflessione_sull'uomo_moderno)  
+- [Riflessioni_sull'asimmetria_di_Genere](/notes/riflessioni_sull'asimmetria_di_genere)  
+- [Suicide_note_of_a_lost_errand_man](/notes/suicide_note_of_a_lost_errand_man)  
+- [Dissonance](/notes/dissonance)
+- [Purity(Brainstorming)](/notes/purity_ideas)
+- [repressione](/notes/repressione)
 
-[random stuff](random stuff)
+[random stuff](/notes/random_stuff)

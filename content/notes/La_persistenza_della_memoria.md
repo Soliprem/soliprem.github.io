@@ -3,4 +3,4 @@
 
 fatto mentre allucinava per aver mangiato del camembert
 
-![quadro](https://www.studiarapido.it/wp-content/uploads/2014/06/la-persistenza-della-memoria-di-dal%C3%AC1-560x420.jpg)
+![quadro](/notes/https://www.studiarapido.it/wp-content/uploads/2014/06/la-persistenza-della-memoria-di-dal%C3%AC1-560x420.jpg)

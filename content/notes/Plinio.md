@@ -1,4 +1,4 @@
 # Plinio
-[Uno Scambio di pensieri sulla question dei Cristiani](Lettera all'imperatore Traiano)
+[Uno Scambio di pensieri sulla question dei Cristiani](/notes/Lettera all'imperatore Traiano)
 
 

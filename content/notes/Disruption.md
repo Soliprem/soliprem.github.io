@@ -1,4 +1,4 @@
 # Disruption
-- [Slave trade](Slave trade)
-- [Asia](Asia)
-- [Settler Colonialism in New Zaeland](Settler Colonialism in New Zaeland)
+- [Slave trade](/notes/Slave trade)
+- [Asia](/notes/Asia)
+- [Settler Colonialism in New Zaeland](/notes/Settler Colonialism in New Zaeland)

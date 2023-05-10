@@ -3,4 +3,4 @@
 STORIA  
 Gennaio 1848, Italia.  
 Protesta di portata continentale.   
-[Società 840-890](Storia_19_Aprile)  
+[Società 840-890](/notes/Storia_19_Aprile)  

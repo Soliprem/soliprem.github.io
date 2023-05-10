@@ -1,4 +1,4 @@
 # Storia dell'Arte
-[Die Brucke](Die_Brucke)  
-[Salvador_Dalì](Salvador_Dalì)  
-[Picasso](Picasso)  
+[Die Brucke](/notes/Die_Brucke)  
+[Salvador_Dalì](/notes/Salvador_Dalì)  
+[Picasso](/notes/Picasso)  

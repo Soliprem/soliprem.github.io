@@ -16,5 +16,5 @@ L'oratore è sincero
 
 #### Collegamenti con l'italiano
 
-| [Leopardi](Leopardi)         | Quintiliano                       |
+| [Leopardi](/notes/Leopardi)         | Quintiliano                       |
 | concezione di vico del tempo | concetto di decadenza dei costumi |

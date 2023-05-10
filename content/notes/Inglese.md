@@ -1,5 +1,5 @@
 # Indice Inglese
 
-[Kipling](Kipling)  
-[Oscar_Wilde](Oscar_Wilde)  
-[Robert_Louis_Stevenson](Robert_Louis_Stevenson)  
+[Kipling](/notes/kipling)  
+[Oscar_Wilde](/notes/oscar_wilde)  
+[Robert_Louis_Stevenson](/notes/robert_louis_stevenson)  

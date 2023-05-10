@@ -1,7 +1,7 @@
 # L'arte dell'Inganno
 
 La fides è importante in tutti gli aspetti della vita, tranne l'Amore: 
-  Gli dei come esempio ([Alessandrini](Alessandrini))
+  Gli dei come esempio ([Alessandrini](/notes/Alessandrini))
 
 > La vera passione amorosa è fonte di ansie e di sofferenze
 

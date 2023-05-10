@@ -26,10 +26,10 @@ Vogliono trasformare il subconscio in un'opera d'arte
 <u>Inventa il "metodo paranoico/critico"</u>  
 
 Ambiente onirico = massima importanza  
-[La_persistenza_della_memoria](La_persistenza_della_memoria)
+[La_persistenza_della_memoria](/notes/La_persistenza_della_memoria)
 
 <u>Misticismo Nucleare</u>  
-[Idillio_Melanconico_atomico_e_uranico](Idillio_Melanconico_atomico_e_uranico)
+[Idillio_Melanconico_atomico_e_uranico](/notes/Idillio_Melanconico_atomico_e_uranico)
 
 ## Sessualità
 Vive la sessualità in modo acceso e feroce, ma nasce da delle ansie:  

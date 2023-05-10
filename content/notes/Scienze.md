@@ -1,5 +1,5 @@
 # Scienze
-[Geologia](Geologia)  
-[Chimica Organica](Chimica Organica)  
-[Tessuti, Organi, Apparati](Scienze_20210111)  
-[IPCC](IPCC)
+[Geologia](/notes/geologia)  
+[Chimica Organica](/notes/chimica_organica)  
+[Tessuti, Organi, Apparati](/notes/scienze_20210111)  
+[IPCC](/notes/ipcc)

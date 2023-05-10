@@ -1,2 +1,2 @@
 # Matematica 
-[Matrix Algebra](Matrix Algebra)
+[Matrix Algebra](/notes/matrix_algebra)

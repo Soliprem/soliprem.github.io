@@ -12,5 +12,5 @@ will be using a formula sheet
 "Statistics is the art of learning from data"
 
 
-[Variables](2023-02-14_variables.md)
-[statistics-module2](statistics-module2.md)
+[Variables](/notes/2023-02-14_variables)  
+[statistics-module2](/notes/statistics-module2)

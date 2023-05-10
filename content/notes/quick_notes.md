@@ -1,2 +1,2 @@
 Fishing for phools
-[Autunno](Autunno)
+[Autunno](/notes/Autunno)

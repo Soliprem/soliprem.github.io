@@ -1,3 +1,3 @@
 # Tacito
 
-[Agricola](Agricola_Tacito)  
+[Agricola](/notes/Agricola_Tacito)  

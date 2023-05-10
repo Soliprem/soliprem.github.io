@@ -1,3 +1,7 @@
+---
+title: Notes
+---
+
 # Francesco Prem Solidoro's Notes
 
 - [Latino](/notes/latino)
@@ -11,7 +15,7 @@
 - [Economia](/notes/economia)
 - [Law](/notes/law)
 - [Storia dell'arte](/notes/storia_dell_arte)
-- [Dizionario_Rapido](/notes/dizionario_Rapido)
+- [Dizionario_Rapido](/notes/dizionario_rapido)
 - [riflessioni_personali](/notes/riflessioni_personali)
 - [Scout](/notes/scout)
 - [Assemblee](/notes/assemblee)

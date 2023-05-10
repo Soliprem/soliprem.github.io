@@ -27,20 +27,20 @@ Tristia (9-12 d.C.)
 Muore scrivendo "epistule ex ponto", lettere che chiedevano ad amici di farlo tornare  
   
   
-[Riconduzione_Ovidio](17_Settembre_Come_importanti_-Guerra-)  
+[Riconduzione_Ovidio](/notes/17_settembre_come_importanti_-guerra-)  
   
 11:27 9/15/2021, 08:24 9/16/2021  
   
 Autobiografia:  
   
-[tristia, IV, 10. Autobiografia](tristia_autobiografia_4_10_Ovidio) (collegamento con Montale)  
+[tristia, IV, 10. Autobiografia](/notes/tristia_autobiografia_4_10_ovidio) (collegamento con Montale)  
   
   
 Opere:  
   
-[L'arte dell'inganno](arte_inganno_Ovidio)  
-[Eroides](Eroides)  
-[Ars_Amatoria](Ars_Amatoria)  
+[L'arte dell'inganno](/notes/arte_inganno_ovidio)  
+[Eroides](/notes/eroides)  
+[Ars_Amatoria](/notes/ars_amatoria)  
   
 08:21 9/16/2021  
   

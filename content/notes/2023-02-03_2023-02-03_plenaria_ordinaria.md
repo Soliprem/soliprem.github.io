@@ -151,7 +151,7 @@
 presenti prima votazione: 23
 presenti seconda votazione: 27
 
-<!-- ![voti](img/2023-02-04-18-27-03.png) -->
+<!-- ![voti](/notes/img/2023-02-04-18-27-03.png) -->
 
 | Quesito                                                                                                     | Favorevoli | Astenuti | Contrari | STATO     |
 | ----------------------------------------------------------------------------------------------------------- | ---------- | -------- | -------- | --------- |

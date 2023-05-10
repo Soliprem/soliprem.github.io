@@ -1,12 +1,12 @@
 # Anti Hegeliani
 09:19 10/12/2021  
   
-[Schopenhauer](Schopenhauer): annullamento di pulsioni e passioni, nullificazione volontà di vivere. Ateo, conservatore reazionario.  
+[Schopenhauer](/notes/Schopenhauer): annullamento di pulsioni e passioni, nullificazione volontà di vivere. Ateo, conservatore reazionario.  
 		|->giungere al Nirvana  
   
-[Kirkegaard](Kirkegaard): percorso spirituale in fasi, la cui ultima è quella cristiana. Difesa del cristianesimo  
+[Kirkegaard](/notes/Kirkegaard): percorso spirituale in fasi, la cui ultima è quella cristiana. Difesa del cristianesimo  
   
-[Nietzsche](Nietzsche): Nichilismo->maschera buona vs cattiva  
+[Nietzsche](/notes/Nietzsche): Nichilismo->maschera buona vs cattiva  
 		|->anticipa la decadenza del '900  
 		|->porta la novità l'oltreuomo (possibile spinta politica)  
 		|->scrive l'anticristo   

@@ -40,5 +40,5 @@ Does command still play a role in modern markets? (yes):
 
 There's a tension between markets and social norms
 
-[Competivive Markets](2023-02-15_competivive-markets.rmd)
-[Risk](2023-04-28_risk.md)
+[Competivive Markets](/notes/2023-02-15_competivive-markets.)
+[Risk](/notes/2023-04-28_risk)

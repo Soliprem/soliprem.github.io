@@ -50,5 +50,5 @@ Nella storia se hai potere sei dalla parte dei vittoriosi=carnefici.
 													  |->Se terrena otenuta con ingiustizie.  
   
   
-[Adelchi](Adelchi)  
-[Promessi_Sposi](Promessi_Sposi)  
+[Adelchi](/notes/Adelchi)  
+[Promessi_Sposi](/notes/Promessi_Sposi)  

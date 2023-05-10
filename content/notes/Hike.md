@@ -4,15 +4,15 @@
 
 ## Parte personalizzata
 
-[Guido](Guido)
-[Chiara](Chiara)
-[Leonardo](Leonardo)
-[Giulia](Giulia)
-[Jacopo](Jacopo)
-[Giacomo](Giacomo)
-[Giada](Giada)
-[Raquel](Raquel)
-[Alice](Alice)
-[Gabriele](Gabriele)
+[Guido](/notes/Guido)
+[Chiara](/notes/Chiara)
+[Leonardo](/notes/Leonardo)
+[Giulia](/notes/Giulia)
+[Jacopo](/notes/Jacopo)
+[Giacomo](/notes/Giacomo)
+[Giada](/notes/Giada)
+[Raquel](/notes/Raquel)
+[Alice](/notes/Alice)
+[Gabriele](/notes/Gabriele)
 
-[Documento](Documento)
+[Documento](/notes/Documento)

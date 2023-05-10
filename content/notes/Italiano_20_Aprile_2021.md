@@ -4,7 +4,7 @@ Foscolo
 -Razionalista  
 -Delusione per trattato di campoformio  
 -Ortis dice "o si fa torto o si subisce"  
-  |->Manzoni "[Adelchi](Adelchi)"  
+  |->Manzoni "[Adelchi](/notes/Adelchi)"  
   
   
 se pui capire la vita priva della forma umana, priva di   
@@ -12,7 +12,7 @@ trascendenza, c'è la possibilità di miglioramento
   
 "quello che sei è quello che sei stato" vs "quello che sei è quello che sarai"  
   
-[Vico](Vico) divide le 3 età:  
+[Vico](/notes/Vico) divide le 3 età:  
 Infanzia, eroica, razioncino. Ripetute a spirale  
   
 Suicidio=rifiuto radicale della realtà storica   

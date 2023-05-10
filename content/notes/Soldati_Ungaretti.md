@@ -6,9 +6,9 @@ _d'autunno_
 _sugli alberi_  
 >_le foglie_  
 
-Ungaretti sta dentro la natura _(vs [Montale](Montale), che sta "fuori" e perlustra)_
+Ungaretti sta dentro la natura _(vs [Montale](/notes/Montale), che sta "fuori" e perlustra)_
 
-Composizione [ermetica](ermetismo)
+Composizione [ermetica](/notes/ermetismo)
 >----------------------------
 **Collegamenti**  
 Virgilio parla delle foglie nell'Eneide:  

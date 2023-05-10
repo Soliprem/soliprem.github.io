@@ -49,9 +49,9 @@ Usa personificazioni di natura Alessandrina. (es. riga 124: l'invidia...)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
   
 *Inutile riporta a "negotium, otium"  
-|oppure "onore e utile [Guinizzelli](Guinizzelli)"  
-|oppure [Montale](Montale) (discorso Nobel), [Oscar Wilde](Oscar_Wilde) (ritratto di Dorian Grey, prefazione)  
-[Pirandello](Pirandello)  
+|oppure "onore e utile [Guinizzelli](/notes/Guinizzelli)"  
+|oppure [Montale](/notes/Montale) (discorso Nobel), [Oscar Wilde](/notes/Oscar_Wilde) (ritratto di Dorian Grey, prefazione)  
+[Pirandello](/notes/Pirandello)  
 |Utilità arte come superameto dolore/noia esistenziale.  
 		|->educazione sentimentale  
    

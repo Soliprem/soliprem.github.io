@@ -227,7 +227,7 @@ furiosa tra l’erba
 di liquefatti massi  
 e di metalli e d’infocata arena  
 scendendo immensa piena,  
-le cittadi che il mar là [su](su) l’estremo  
+le cittadi che il mar là [su](/notes/su) l’estremo  
 lido aspergea, confuse  
 e infranse e ricoperse  
 in pochi istanti: onde su quelle or pasce  
@@ -330,5 +330,5 @@ tue stirpi non credesti
 Saffo è contro mondo destino e società: qui il titanismo è chi noma il vero  
   
 ## Collegamenti  
-[Saba](Saba) - a mia moglie (cavernoso covil torna il coniglio)  
+[Saba](/notes/Saba) - a mia moglie (cavernoso covil torna il coniglio)  
 	 - Commiato  
