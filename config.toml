@@ -84,7 +84,7 @@ metaDataFormat= "yaml"
   [[menu.main]]
     identifier = "wiki"
     name       = "Wiki"
-    url        = "/notes"
+    url        = "/wiki"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
