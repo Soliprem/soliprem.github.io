@@ -1,0 +1,1 @@
+è buono et cattivo  

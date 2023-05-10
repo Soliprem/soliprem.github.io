@@ -1,0 +1,10 @@
+# Military Revolution
+- [Field Artillery](Field Artillery)
+- [Guns in Europe](Guns in Europe)
+- [Standing Armies, Logistics](Standing Armies, Logistics)
+- [the Vasco de Gama Era](the Vasco de Gama Era)
+- [Japan: a violent reunification](Japan: a violent reunification)
+- [China: the fall of the Min](China: the fall of the Min)
+- [India: The Mughal Empire](India: The Mughal Empire)
+- [The Ottoman Empire](The Ottoman Empire)
+- [Russia: Imperial Consolidation](Russia: Imperial Consolidation)

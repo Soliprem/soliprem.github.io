@@ -1,0 +1,11 @@
+# Filosofia
+[Heidegger](Heidegger)  
+[Nietzsche](Nietzsche)  
+[Freud](Freud)  
+[Anti_Hegeliani_introduzione](Anti_Hegeliani_introduzione)  
+[Galimberti](Galimberti)  
+[Hegel](Hegel)  
+[Kant](Kant)  
+[Schopenhauer](Schopenhauer)  
+[Hobbes](2023-02-16_hobbes.md)
+[Spinoza](2023-02-20_spinoza.md)
