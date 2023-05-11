@@ -1,3 +1,7 @@
+---
+title: "Critico Del Pensiero Calcolante"
+date: 2023-05-11
+---
 ## Critica al pensiero calcolante  
 [Homo Economicus](/notes/Homo Economicus)  
 [Galimberti](/notes/Galimberti), perdita del "pathos"  

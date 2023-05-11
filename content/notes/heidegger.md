@@ -1,3 +1,7 @@
+---
+title: "Heidegger"
+date: 2023-05-11
+---
 ## Heidegger
 
 [Critico del pensiero calcolante](/notes/Critico del pensiero calcolante)  

@@ -1,3 +1,7 @@
+---
+title: "Documento"
+date: 2023-05-11
+---
 Cara Chiara, sei giunta alla fine del percorso scout, dopo questi cinque anni possiamo dirti che hai un grande potenziale nel coinvolgere le persone accanto a te, riesci a portare a termine gli impegni presi, sia quelli che ti interessano di più che quelli che ti coinvolgono di meno. Abbiamo visto che sai esprimere le tue scelte. Infatti sei anche molto selettiva in ciò che fai. Ti auguriamo di continuare a buttarti esprimendo sempre il tuo pensiero e metterti in gioco con la grinta che sai dare. 
 
 ![Img](/notes/home/soliprem/wallpapers/octopus.jpg) Buona Strada, la Staff

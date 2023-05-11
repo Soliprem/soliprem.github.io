@@ -1,3 +1,7 @@
+---
+title: "Giochi Di Testa"
+date: 2023-05-11
+---
 # Giochi di Testa
 
 ## Demografica loro (~10): 

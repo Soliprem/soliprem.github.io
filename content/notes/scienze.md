@@ -1,3 +1,7 @@
+---
+title: "Scienze"
+date: 2023-05-11
+---
 # Scienze
 [Geologia](/notes/geologia)  
 [Chimica Organica](/notes/chimica_organica)  

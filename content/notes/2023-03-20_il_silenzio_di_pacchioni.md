@@ -1,3 +1,7 @@
+---
+title: "2023-03-20 Il Silenzio Di Pacchioni"
+date: 2023-05-11
+---
 # Valutazione della Dicotomia
 ## Premesse
 

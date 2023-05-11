@@ -1,3 +1,7 @@
+---
+title: "Solution To The Malthusian Trap"
+date: 2023-05-11
+---
 3 factors of production:
 - Capital
 - Labor

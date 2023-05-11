@@ -1,3 +1,7 @@
+---
+title: "Banded Iron Formations"
+date: 2023-05-11
+---
 # Banded Iron Formations
 
 Strisce orizzonatli parallele di ossido di ferro e ferro meno ossidato (alternarsi delle stagioni)\

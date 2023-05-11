@@ -1,3 +1,7 @@
+---
+title: "Corsi Di Collegio"
+date: 2023-05-11
+---
 # Corsi di Collegio
 ## 2022-2023
 - [Intelligenza Collettiva e Distribuita](/notes/Intelligenza Collettiva e Distribuita)

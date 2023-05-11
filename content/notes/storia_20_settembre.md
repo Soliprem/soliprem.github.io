@@ -1,3 +1,7 @@
+---
+title: "Storia 20 Settembre"
+date: 2023-05-11
+---
 # Imperialismo
 Biesmark: "il socialismo della cattedra" (pensione di invalidità, etc.) negli anni 70, per contrastare  
 	    le spinte rivoluzionarie del movimento socialista (Marx+Lassalle)  

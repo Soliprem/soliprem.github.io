@@ -1,3 +1,7 @@
+---
+title: "2023-02-08 Key Features Of Digital Industries"
+date: 2023-05-11
+---
 # Key features of digital industries
 
 ## Demand-side:

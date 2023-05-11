@@ -1,3 +1,7 @@
+---
+title: "Manzoni"
+date: 2023-05-11
+---
 # MANZONI 
 13:35 5/24/2021  
 Giansenista: grazia di Dio è un dono e non una conquista  

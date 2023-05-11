@@ -1,3 +1,7 @@
+---
+title: "Picasso"
+date: 2023-05-11
+---
 # Picasso
 - [Periodo_Giovanile](/notes/Periodo_Giovanile_Picasso)
 - [Cubismo_1907-1909](/notes/Cubismo_1907-1909)  

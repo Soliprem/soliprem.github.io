@@ -1,3 +1,7 @@
+---
+title: "Appunti Presentazione"
+date: 2023-05-11
+---
 # Appunti Presentazione
 FOSCOLO:  
 Romantico, neoclassico, speranza, materialista, illusioni, patria.  

@@ -1,3 +1,7 @@
+---
+title: "Standing Armies, Logistics"
+date: 2023-05-11
+---
 # Military Revolution: (v) Standing Armies, (vi) Logistics
 
 - in the 1590s nations began to form disciplined and drilled standing armies

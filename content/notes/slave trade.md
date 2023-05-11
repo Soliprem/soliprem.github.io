@@ -1,3 +1,7 @@
+---
+title: "Slave Trade"
+date: 2023-05-11
+---
 # Slave Trade
 ## Effects of slave trad on Oceanic trade
 - Saves in silver mines in SA

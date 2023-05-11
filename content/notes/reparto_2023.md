@@ -1,3 +1,7 @@
+---
+title: "Reparto 2023"
+date: 2023-05-11
+---
 # Reparto 2023
 ## Tema Principale: Introspezione
 Premetto dicendo che non sto proponendo di fare quello che farebbe un clan di solito (dato che l'introspezione di solito si associa più al clan che al reparto), ma solo di indirizzare più attività in questa direzione per quest'anno (come l'anno scorso abbiamo fatto per la competenza)

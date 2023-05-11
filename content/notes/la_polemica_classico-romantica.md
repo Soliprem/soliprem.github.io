@@ -1,3 +1,7 @@
+---
+title: "La Polemica Classico-romantica"
+date: 2023-05-11
+---
 # LA POLEMICA CLASSICO-ROMANTICA  
 se l romanticismo è un tipo di movimento che accompagna il risorgmento,  
 la classe di punta è la borghesia, classe non  allenata all studio dei classici  

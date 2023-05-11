@@ -1,3 +1,7 @@
+---
+title: "Romanticismo Vs Illuminismo"
+date: 2023-05-11
+---
 # ROMANTICISMO				vs			 ILLUMINISMO
 | Romanticismo              | Illuminismo                     |
 | ------------------------  | ------------------------------- |

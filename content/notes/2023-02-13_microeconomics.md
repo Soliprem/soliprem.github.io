@@ -1,3 +1,7 @@
+---
+title: "2023-02-13 Microeconomics"
+date: 2023-05-11
+---
 # Microeconomics
 ## Double hermeneutics
 in all sciences, theories do not impact the behavious they decscribe. In Economics it does: economist make models about people, who use these models to make money.  

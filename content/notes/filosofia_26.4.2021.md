@@ -1,3 +1,7 @@
+---
+title: "Filosofia 26.4.2021"
+date: 2023-05-11
+---
 10:04 4/26/2021
 Filosofia. Germania '700-800
 

@@ -1,3 +1,7 @@
+---
+title: "2023-02-25 Il Sigillo"
+date: 2023-05-11
+---
 # Il sigillo
 1a sessione: fermano invasione del direttorio alla città
 

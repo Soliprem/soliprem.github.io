@@ -1,7 +1,7 @@
 ---
-title: Notes
+title: "Notes"
+date: 2023-05-11
 ---
-
 # Francesco Prem Solidoro's Notes
 
 - [Latino](/notes/latino)

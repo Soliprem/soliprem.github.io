@@ -1,3 +1,7 @@
+---
+title: "Die Brucke"
+date: 2023-05-11
+---
 # Die Brucke
 
 ### Nome

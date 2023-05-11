@@ -1,3 +1,7 @@
+---
+title: "Tema Del Doppio"
+date: 2023-05-11
+---
 # Il Doppio
 08:20 9/14/2021  
 Tema del doppio= l'altro che ci abita, rottura di fondo, straniamento. Narcisismo  

@@ -1,3 +1,7 @@
+---
+title: "Dizionario Rapido"
+date: 2023-05-11
+---
 # Dizionario Rapido  
 [Mos_Maiorum](/notes/mos_maiorum)  
 [Antieroe](/notes/antieroe)  

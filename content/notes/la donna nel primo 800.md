@@ -1,3 +1,7 @@
+---
+title: "La Donna Nel Primo 800"
+date: 2023-05-11
+---
 # La donna nel primo '800
 Miao
 Leopardi, A Silvia, donna Ideale: rappresenta la rimembranza, l'immaginario, il tema del ricordo

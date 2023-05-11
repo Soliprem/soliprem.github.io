@@ -1,3 +1,7 @@
+---
+title: "Filosofia"
+date: 2023-05-11
+---
 # Filosofia
 [Heidegger](/notes/heidegger)  
 [Nietzsche](/notes/nietzsche)  

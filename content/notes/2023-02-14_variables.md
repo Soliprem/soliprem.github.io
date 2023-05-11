@@ -1,3 +1,7 @@
+---
+title: "2023-02-14 Variables"
+date: 2023-05-11
+---
 # Variables
 
 ## Categorical/Qualitative Variables

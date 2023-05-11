@@ -1,3 +1,7 @@
+---
+title: "Random Stuff"
+date: 2023-05-11
+---
 
 ## How to write an email
 

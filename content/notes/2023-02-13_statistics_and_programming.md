@@ -1,3 +1,7 @@
+---
+title: "2023-02-13 Statistics And Programming"
+date: 2023-05-11
+---
 # Statistics and Programming
 
 ## textbooks

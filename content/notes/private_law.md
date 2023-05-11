@@ -1,3 +1,7 @@
+---
+title: "Private Law"
+date: 2023-05-11
+---
 # Private Law (Alessandra Spangaro)
 
 "Private Law, we may say, is daily life"

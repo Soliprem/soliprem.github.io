@@ -1,3 +1,7 @@
+---
+title: "Riflessione Sull Uomo Moderno"
+date: 2023-05-11
+---
 La venerazione folle del classico e
 dell'antico  un morbo che ha sempre afflittto la società,
 ma oggi più che mai data la nostra cultura globale e la grande conoscenza che acquisita

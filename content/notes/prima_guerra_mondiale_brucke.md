@@ -1,3 +1,7 @@
+---
+title: "Prima Guerra Mondiale Brucke"
+date: 2023-05-11
+---
 # Prima Guerra Mondiale
 
 ## Soldato smarrito 

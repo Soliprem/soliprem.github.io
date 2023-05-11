@@ -1,3 +1,7 @@
+---
+title: "Gioco Simulazione"
+date: 2023-05-11
+---
 # Gioco-SImulazione
 
 | domande                                          | Cri Cri   | Mu     | Elia      | Miao  |

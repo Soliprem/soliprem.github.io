@@ -1,3 +1,7 @@
+---
+title: "La Sinistra Storica"
+date: 2023-05-11
+---
 # La sinistra storica  
 09:20 9/22/2021  
   

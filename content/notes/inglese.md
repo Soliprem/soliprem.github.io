@@ -1,3 +1,7 @@
+---
+title: "Inglese"
+date: 2023-05-11
+---
 # Indice Inglese
 
 [Kipling](/notes/kipling)  

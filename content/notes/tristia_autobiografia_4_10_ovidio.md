@@ -1,3 +1,7 @@
+---
+title: "Tristia Autobiografia 4 10 Ovidio"
+date: 2023-05-11
+---
 # tristia, IV, 10. Autobiografia.  
 11:27 9/15/2021  
   

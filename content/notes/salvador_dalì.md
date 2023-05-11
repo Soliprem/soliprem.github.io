@@ -1,3 +1,7 @@
+---
+title: "Salvador Dalì"
+date: 2023-05-11
+---
 # Salvador Dalì
 
 ## Artista trasgressivo e stupefacente.  

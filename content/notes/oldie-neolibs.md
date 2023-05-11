@@ -1,3 +1,7 @@
+---
+title: "Oldie-neolibs"
+date: 2023-05-11
+---
 # Oldie Neolibs
 12:19 9/20/2021  
 Positivismo pretende di trovre il gene della criminalità.   

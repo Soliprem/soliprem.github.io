@@ -1,3 +1,7 @@
+---
+title: "Toeoria Della Liberazione"
+date: 2023-05-11
+---
 ## Teoria della Liberazione {#teoria_della_liberazione}  
   
 Sudamerica (e.g.: The Mission):  

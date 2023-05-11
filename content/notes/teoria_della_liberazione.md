@@ -1,3 +1,7 @@
+---
+title: "Teoria Della Liberazione"
+date: 2023-05-11
+---
 ## Teoria della Liberazione  
 Sudamerica (e.g.: The Mission):  
  [[Gesuiti]] vanno in missione  

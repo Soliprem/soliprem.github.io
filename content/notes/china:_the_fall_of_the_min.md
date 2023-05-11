@@ -1,3 +1,7 @@
+---
+title: "China: The Fall Of The Min"
+date: 2023-05-11
+---
 # The fall of the Ming
 - Crisis 1: in the 159s, the campaign agains Hideyoshi's invasion of Korea depleted the treasury
 - Crisis 2: long periods of drought and the Little Ice Age brought famines

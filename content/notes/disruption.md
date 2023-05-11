@@ -1,3 +1,7 @@
+---
+title: "Disruption"
+date: 2023-05-11
+---
 # Disruption
 - [Slave trade](/notes/Slave trade)
 - [Asia](/notes/Asia)

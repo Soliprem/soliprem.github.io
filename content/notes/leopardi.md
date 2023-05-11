@@ -1,3 +1,7 @@
+---
+title: "Leopardi"
+date: 2023-05-11
+---
 # Leopardi
 [Ginestra](/notes/Ginestra)  
 [A_Silvia](/notes/A_Silvia)  

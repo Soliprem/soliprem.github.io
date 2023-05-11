@@ -1,3 +1,7 @@
+---
+title: "17 Settembre Come Importanti -guerra-"
+date: 2023-05-11
+---
 08:12 9/17/2021  
   
 Tutto è riconducibile a pochi concetti fondamentali: intellettuale/potere. Tempo/spazio. cultura/politica, etc...  

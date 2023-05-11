@@ -1,3 +1,7 @@
+---
+title: "Anti Hegeliani Introduzione"
+date: 2023-05-11
+---
 # Anti Hegeliani
 09:19 10/12/2021  
   

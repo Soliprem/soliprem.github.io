@@ -1,3 +1,7 @@
+---
+title: "Romanticismo"
+date: 2023-05-11
+---
 # Romanticismo
 Romanticismo europeo=/="italiano"  
   

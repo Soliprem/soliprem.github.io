@@ -1,3 +1,7 @@
+---
+title: "Discorso Di Un Italiano Intorno Alla Poesia Moderna"
+date: 2023-05-11
+---
 # Discorso di un italiano intorno alla poesia moderna 
   
   

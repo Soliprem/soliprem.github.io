@@ -1,3 +1,7 @@
+---
+title: "Intelligenza Collettiva E Distribuita"
+date: 2023-05-11
+---
 # Intelligenza Collettiva e Distribuita
 
 - singoli si adattano sena consapevolezza del gruppo:

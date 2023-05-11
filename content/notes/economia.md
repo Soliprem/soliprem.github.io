@@ -1,3 +1,7 @@
+---
+title: "Economia"
+date: 2023-05-11
+---
 # Economia
 - [Solution to the Malthusian Trap](/notes/solution_to_the_malthusian_trap)
 - [Network_Effects](/notes/2023-02-08_network_effects)

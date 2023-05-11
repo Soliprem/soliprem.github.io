@@ -1,3 +1,7 @@
+---
+title: "Prizes"
+date: 2023-05-11
+---
 Ludwig: +4  
 Lorenz: +1  
 Alexander: +2  

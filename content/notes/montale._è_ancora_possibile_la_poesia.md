@@ -1,3 +1,7 @@
+---
+title: "Montale. È Ancora Possibile La Poesia"
+date: 2023-05-11
+---
 Montale: è possibile la poesia?
 
 Massificare=portare a uno stesso uniforme livello di vita i componenti della comunità 

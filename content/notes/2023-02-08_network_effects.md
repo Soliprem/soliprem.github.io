@@ -1,3 +1,7 @@
+---
+title: "2023-02-08 Network Effects"
+date: 2023-05-11
+---
 # Network effects
 userbase = success -> really hard to challenge successful companies, who already hold a big community and userbase
 

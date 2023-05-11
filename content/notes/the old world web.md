@@ -1,3 +1,7 @@
+---
+title: "The Old World Web"
+date: 2023-05-11
+---
 # The (soon-to-break) Old World Web
 - By 1400, 3/4 of the population lived in the Old World web.
 - Trade was conducted over two amain routes:

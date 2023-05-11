@@ -1,3 +1,7 @@
+---
+title: "Joshua-fjor"
+date: 2023-05-11
+---
 # Joshua Fjor
 ## Infanzia e primo periodo
 Joshua Fjor è un elfo dei boschi che ha venduto la sua anima all'età di 20 anni in cambio di un'incredibile abilità di apprendimento. Nei successivi decenni, maturò, e per quando aveva 100 anni (età della maturità degli elfi) aveva già intrapreso diverse avventure, anche fuori dal suo bosco natio, e scoperto tutto quello che poteva scoprire assieme agli elfi. Quindi partì.  

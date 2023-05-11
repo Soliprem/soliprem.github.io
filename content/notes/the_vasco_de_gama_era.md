@@ -1,3 +1,7 @@
+---
+title: "The Vasco De Gama Era"
+date: 2023-05-11
+---
 # The Vasco de Gama Era (1498-1947/1949)
 >"The 450 yeras which began with the Arrival of Vasco da Gama in Calucut (in 1498) and ended witht he withdrawal of British forces from India and of the Euro navies from China in 1949 present a singular unity"
 >

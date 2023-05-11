@@ -1,3 +1,7 @@
+---
+title: "Storia"
+date: 2023-05-11
+---
 # Storia
 - [La_sinistra_storica](/notes/la_sinistra_storica)  
 - [Bozza1 Unità Italia](/notes/storia_6_Maggio)  

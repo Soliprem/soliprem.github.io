@@ -1,3 +1,7 @@
+---
+title: "Storia 19 Aprile"
+date: 2023-05-11
+---
 # Società 1840-90
 condizioni economiche italiane negli anni 40 dell'800  
 -nessun capitale investibile,   

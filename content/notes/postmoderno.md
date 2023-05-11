@@ -1,3 +1,7 @@
+---
+title: "Postmoderno"
+date: 2023-05-11
+---
 # Postmoderno
 12:09 9/21/2021  
   

@@ -1,3 +1,7 @@
+---
+title: "Periodo Rosa 1904-1909"
+date: 2023-05-11
+---
 # Periodo Rosa
 Prova a "risolvere" la pittura col Rosa
 

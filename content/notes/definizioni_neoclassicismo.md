@@ -1,3 +1,7 @@
+---
+title: "Definizioni Neoclassicismo"
+date: 2023-05-11
+---
 # Definizioni Neoclassicimo
 10:45 4/27/2021  
 NEOCLASSICISMO FORMALE: Forma classica, principi moderni  

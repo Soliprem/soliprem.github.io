@@ -1,3 +1,7 @@
+---
+title: "Purity Ideas"
+date: 2023-05-11
+---
 # Story of Deadly Perfection
 ## Plot possibilities:
 

@@ -1,3 +1,7 @@
+---
+title: "Schopenhauer"
+date: 2023-05-11
+---
 # Schopenhauer
 09:19 10/12/2021	  
   

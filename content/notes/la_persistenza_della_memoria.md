@@ -1,3 +1,7 @@
+---
+title: "La Persistenza Della Memoria"
+date: 2023-05-11
+---
 ## La persistenza della memoria
 1932
 

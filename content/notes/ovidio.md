@@ -1,3 +1,7 @@
+---
+title: "Ovidio"
+date: 2023-05-11
+---
 # Ovidio
 08:00 9/14/2021  
 augusteo, contemporaneo di Virgilio e Orazio, crebbe in popolarità ma fu bandito ad na provincia del mar Nero. Incontra l'epicureismo  

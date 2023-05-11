@@ -1,3 +1,7 @@
+---
+title: "Arte Inganno Ovidio"
+date: 2023-05-11
+---
 # L'arte dell'Inganno
 
 La fides è importante in tutti gli aspetti della vita, tranne l'Amore: 

@@ -1,3 +1,7 @@
+---
+title: "Random-variables"
+date: 2023-05-11
+---
 # Random Variables
 
 A random variable is a function that maps each outcome in a sample space, Omega, to a numerical value. In other words, it is a variable whose value depends on the outcome of a random experiment.

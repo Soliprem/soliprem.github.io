@@ -1,3 +1,7 @@
+---
+title: "Leopardi Da Leggere"
+date: 2023-05-11
+---
 # Lo Zibaldone
 LEOPARDI:
 Zibaldone (appunti estemporanei da non pubblicre). 

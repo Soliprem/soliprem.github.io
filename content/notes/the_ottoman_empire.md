@@ -1,3 +1,7 @@
+---
+title: "The Ottoman Empire"
+date: 2023-05-11
+---
 # The Ottoman Empire
  The Ottomans began as a community of Turkish-speaking pastoralists; they might have benefited from the bubonic pandemic (mostly urban and agrarian)
  they gradually expanded in Anatolia and the Balkans

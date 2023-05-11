@@ -1,3 +1,7 @@
+---
+title: "Italiano 3 Maggio 2021"
+date: 2023-05-11
+---
 # Fisiocraticismo, Religione e Romanticismo
 10:09 5/4/2021  
 ITALIANO  

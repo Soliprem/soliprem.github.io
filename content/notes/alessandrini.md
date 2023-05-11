@@ -1,3 +1,7 @@
+---
+title: "Alessandrini"
+date: 2023-05-11
+---
 # Alessandrini
 Spostano lo sguardo sulla vita priata:
 Invece di esserci una dea paradigmatica come Atena che riprende Achille nell'Iliade, si cerca una nuova concezione: un pensiero debole di Emblemticità dell'essere umano  

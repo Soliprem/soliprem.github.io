@@ -1,3 +1,7 @@
+---
+title: "Veglia Al Fuoco"
+date: 2023-05-11
+---
 # Veglia al Fuoco 2022
 Hai del tempo per te, per riflettere sui giorni che hai trascorso, su di te, sulla tua vita, o semplicemente per stare in silenzio. Puoi scegliere di scrivere le tue riflessioni, disegnarle, o esprimerle com meglio ti senti.  
 Buona Veglia.

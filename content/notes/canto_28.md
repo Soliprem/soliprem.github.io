@@ -1,3 +1,7 @@
+---
+title: "Canto 28"
+date: 2023-05-11
+---
 canto 28, purgatorio:  
 locus amoenus  
 arcadia  

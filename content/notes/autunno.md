@@ -1,3 +1,7 @@
+---
+title: "Autunno"
+date: 2023-05-11
+---
 ```
    D                   A7
 Gli alberi vestono i colori del tramonto

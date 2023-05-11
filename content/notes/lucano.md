@@ -1,3 +1,7 @@
+---
+title: "Lucano"
+date: 2023-05-11
+---
 # Lucano
 Lucano (Cordova, 3 Novembre 39, Roma, 30 Aprile 65) è stato un poeta latino che scrisse sotto il regime Neroniano. Il suo  pià grande lavoro (Bellum Civile) è considerato un'antitesi all'[Eneide](/notes/Eneide)
 ## Biografia

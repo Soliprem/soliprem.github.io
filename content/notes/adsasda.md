@@ -1,3 +1,7 @@
+---
+title: "Adsasda"
+date: 2023-05-11
+---
 # La Ricerca del Cambiamento
 lo scrittore cerca cambiamento   
 politico, sociale, morale.  

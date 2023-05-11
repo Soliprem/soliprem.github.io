@@ -1,3 +1,7 @@
+---
+title: "2023-03-30 Excercise"
+date: 2023-05-11
+---
 
 b1 = r * std(y) / std(x)
 

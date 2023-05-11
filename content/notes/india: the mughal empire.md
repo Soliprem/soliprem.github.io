@@ -1,3 +1,7 @@
+---
+title: "India: The Mughal Empire"
+date: 2023-05-11
+---
 # India: The Mughal EMpire
 - The Mughal emerged into the early 16th century, from the will of teh Islamic population: they relied on a highly developed military force
 

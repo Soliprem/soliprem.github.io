@@ -1,3 +1,7 @@
+---
+title: "Non Pensare Al Futuro"
+date: 2023-05-11
+---
 Vides ut candidum Soracte stat  
 alta nive , nec silvae laborantes iam  
 sustineant onus, et flumina constiterint   

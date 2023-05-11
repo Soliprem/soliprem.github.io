@@ -1,3 +1,7 @@
+---
+title: "Eroides"
+date: 2023-05-11
+---
 # Eroides
 Lettere scritte d eroine ai loro amanti  
 3 di esse sono 3 personaggi maschili che rispondono ai personaggi amati  

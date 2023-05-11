@@ -1,3 +1,7 @@
+---
+title: "Canzoniere"
+date: 2023-05-11
+---
 Acqua Azzurra - Lucio Battisti .. p. 4
 Acqua Siamo Noi - Giosy Cento ................................................... p. 5
 Albachiara - Vasco Rossi ........................................................ p. 6

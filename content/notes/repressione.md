@@ -1,3 +1,7 @@
+---
+title: "Repressione"
+date: 2023-05-11
+---
 # Repressione
 la repressione di certe sensazioni è una cosa che mi ha sempre preso in causa: passa per un desiderio che ho di voler essere a disposizione come punto di riferimento o di conforto nel momento in cui la reazione colpirebbe normalmente per altre persone, ma penso che in realtà parta da un desiderio di "non affrontare".
 È quest'ultimo in realtà che è più difficile da affrontare: il primo se ne va nel momento in cui sono da solo (prendo l'esempio di come tendo a piangere o a vere brutti pensieri nei momenti di solitudine piuttosto che di compagnia), ma non posso liberarmi del desiderio che ho di scappare dalle cose: non è mai il momento giusto.

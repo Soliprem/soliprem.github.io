@@ -1,3 +1,7 @@
+---
+title: "Statistics-module2"
+date: 2023-05-11
+---
 # Statistics - Module 2
 
 # Probability Theory

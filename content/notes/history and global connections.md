@@ -1,3 +1,7 @@
+---
+title: "History And Global Connections"
+date: 2023-05-11
+---
 # History and Global Connections: a Long-Term History (Michele Alacevich)
 
 Connection of things rather than what traditional History course (e.g. High School)

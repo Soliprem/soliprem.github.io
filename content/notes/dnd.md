@@ -1,3 +1,7 @@
+---
+title: "Dnd"
+date: 2023-05-11
+---
 # DnD
 [Joshua Fjor](/notes/joshua-fjor)
 [Arryn](/notes/arryn)

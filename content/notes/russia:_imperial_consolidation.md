@@ -1,3 +1,7 @@
+---
+title: "Russia: Imperial Consolidation"
+date: 2023-05-11
+---
 # Russia: imperial Consolidation
 - Ivan IV, the Terrible (r. 1456-1585), and Peter the great (r. 1682-1725)
 - Territorial expansion (Caspian Sea, Baltic Sea)

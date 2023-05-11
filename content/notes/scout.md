@@ -1,3 +1,7 @@
+---
+title: "Scout"
+date: 2023-05-11
+---
 # Scout
 ## Campo Reparto 2022
 - [Veglia al Fuoco](/notes/veglia_al_fuoco)

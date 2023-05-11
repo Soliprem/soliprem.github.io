@@ -1,3 +1,7 @@
+---
+title: "Leopardi Dibattito Sulla Psia Romantica"
+date: 2023-05-11
+---
 Leopardi: sensista neoclassico  
   
 Dibattito intorno alla poesia romantica del 1818.  

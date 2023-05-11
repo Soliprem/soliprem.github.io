@@ -1,3 +1,7 @@
+---
+title: "Programma"
+date: 2023-05-11
+---
 # Programma, quanto lo so?
 
 | Il Doppio                                | poco | bene | tanto |

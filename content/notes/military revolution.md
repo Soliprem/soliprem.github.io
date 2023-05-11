@@ -1,3 +1,7 @@
+---
+title: "Military Revolution"
+date: 2023-05-11
+---
 # Military Revolution
 - [Field Artillery](/notes/Field Artillery)
 - [Guns in Europe](/notes/Guns in Europe)

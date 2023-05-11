@@ -1,3 +1,7 @@
+---
+title: "Suicide Note Of A Lost Errand Man"
+date: 2023-05-11
+---
 # Suicide Note of a Lost Erran Man  
   
 Lost in his errand was  

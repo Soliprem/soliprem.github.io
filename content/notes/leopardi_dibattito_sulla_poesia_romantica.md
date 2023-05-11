@@ -1,3 +1,7 @@
+---
+title: "Leopardi Dibattito Sulla Poesia Romantica"
+date: 2023-05-11
+---
 # Dibattito sulla Poesia Romantica
 Leopardi: sensista neoclassico  
   

@@ -1,3 +1,7 @@
+---
+title: "Law"
+date: 2023-05-11
+---
 # Law
 [Private Law](/notes/private_law)  
 [Public Law](/notes/public_law)

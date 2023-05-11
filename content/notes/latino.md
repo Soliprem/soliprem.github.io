@@ -1,3 +1,7 @@
+---
+title: "Latino"
+date: 2023-05-11
+---
 # Latino
 [Catullo](/notes/catullo)  
 [Apuleio](/notes/apuleio)  

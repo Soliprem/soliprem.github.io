@@ -1,3 +1,7 @@
+---
+title: "Vita Kipling"
+date: 2023-05-11
+---
 # Life of Kipling  
   
 Born in Bombay, India, sent back to England to study, then back to India-> Journalist  

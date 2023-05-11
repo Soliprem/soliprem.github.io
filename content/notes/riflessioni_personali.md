@@ -1,3 +1,7 @@
+---
+title: "Riflessioni Personali"
+date: 2023-05-11
+---
 # Riflessioni Personali
 - [Riflessione_sull'uomo_moderno](/notes/riflessione_sull'uomo_moderno)  
 - [Riflessioni_sull'asimmetria_di_Genere](/notes/riflessioni_sull'asimmetria_di_genere)  

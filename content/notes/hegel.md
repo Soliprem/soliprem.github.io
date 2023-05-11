@@ -1,3 +1,7 @@
+---
+title: "Hegel"
+date: 2023-05-11
+---
 # Hegel
 ## Vita
 Hegel nasce a stoccarda il 27 Agosto nel 1770 in una famiglia Luterana. Studia teologia. Diviene amico di Schelling, entusiasta della rivoluzione francese.  

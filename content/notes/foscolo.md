@@ -1,3 +1,7 @@
+---
+title: "Foscolo"
+date: 2023-05-11
+---
 # Ugo Foscolo
 [Alla_Sera](/notes/Alla_Sera)  
 [Eroe Romantico](/notes/Italiano_20_Aprile_2021)  

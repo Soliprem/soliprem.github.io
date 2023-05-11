@@ -1,3 +1,7 @@
+---
+title: "A White Mans Burden"
+date: 2023-05-11
+---
 # A White man's burden: The united states and the Philippines Islands  
   
 ## Kipling wrote this to convince the USA to take actin in the Philippines:  

@@ -1,3 +1,7 @@
+---
+title: "Fundamental Rights"
+date: 2023-05-11
+---
 # Fundamental Rights
 
 ## Right to have a name (art. 7c.c)

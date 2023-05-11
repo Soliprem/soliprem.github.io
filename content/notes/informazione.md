@@ -1,3 +1,7 @@
+---
+title: "Informazione"
+date: 2023-05-11
+---
 # Informazione
 (In antropologia/sociologia) Qualcosa che ha una forma ed un possibile significato:
 - si esprime attraverso un codice:

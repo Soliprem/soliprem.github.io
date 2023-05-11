@@ -1,3 +1,7 @@
+---
+title: "Asia"
+date: 2023-05-11
+---
 # Asia
 ## Siberia Absorbed
 - Expansion into Siberia was motivated by a growing fur export trade

@@ -1,3 +1,7 @@
+---
+title: "Dissonance"
+date: 2023-05-11
+---
 # Dissonance
 It was a not-so-stormy night, in the most ordinary of cities in the far west of Saint Bartholomew Road. The morning was by then half spent.  
 There's no point in all of this, they thought in a mumbling voice. 

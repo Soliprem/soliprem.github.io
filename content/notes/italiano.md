@@ -1,3 +1,7 @@
+---
+title: "Italiano"
+date: 2023-05-11
+---
 # Italiano
 ## Illuminismo
 [Leopardi](/notes/leopardi)  
