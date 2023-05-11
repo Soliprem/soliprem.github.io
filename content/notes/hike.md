@@ -8,15 +8,15 @@ date: 2023-05-11
 
 ## Parte personalizzata
 
-[Guido](/notes/Guido)
-[Chiara](/notes/Chiara)
-[Leonardo](/notes/Leonardo)
-[Giulia](/notes/Giulia)
-[Jacopo](/notes/Jacopo)
-[Giacomo](/notes/Giacomo)
-[Giada](/notes/Giada)
-[Raquel](/notes/Raquel)
-[Alice](/notes/Alice)
-[Gabriele](/notes/Gabriele)
+- [Guido](/notes/guido)
+- [Chiara](/notes/chiara)
+- [Leonardo](/notes/leonardo)
+- [Giulia](/notes/giulia)
+- [Jacopo](/notes/jacopo)
+- [Giacomo](/notes/giacomo)
+- [Giada](/notes/giada)
+- [Jayden](/notes/jayden)
+- [Alice](/notes/alice)
+- [Gabriele](/notes/gabriele)
 
-[Documento](/notes/Documento)
+[Documento](/notes/documento)
