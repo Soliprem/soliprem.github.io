@@ -36,7 +36,7 @@ metaDataFormat= "yaml"
   img_title = "Thanks to Christina @ wocintechchat.com for this photo."
   icon = "img/logo.png"
   quote = "All, everything I understand, I only understand because I love"
-  description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam. Quis risus sed vulputate odio ut. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Bibendum at varius vel pharetra vel turpis. Semper viverra nam libero justo laoreet sit amet cursus. Mauris a diam maecenas sed enim ut sem."
+  description= "Hello, this is Soli's personal website! If you're here, chances are you know him, and can already ask for directions, but in case you don't, it's really simple. If you're here to check notes about random stuff, they're in the \"wiki\" section, and if you're looking for blog posts, they'll be in the \"posts\" section. Have a look around and enjoy!"
   licenseUrl = "https://github.com/Soliprem/soliprem.github.io/blob/main/LICENSE"
 
  # Social icons
