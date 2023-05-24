@@ -21,4 +21,4 @@ date: 2023-05-11
 - [Corsi di Collegio](/notes/corsi_di_collegio)
 - [DnD](/notes/dnd)
 
-## For the Latest Notes: click [here](/notes/)
+<!-- ## For the Latest Notes: click [here](/notes/) -->
