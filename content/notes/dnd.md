@@ -8,3 +8,4 @@ date: 2023-05-11
 [Eden](/notes/2023-02-25_eden)
 [Il_sigillo](/notes/2023-02-25_il_sigillo)
 ![shellmommy](/notes/https://raw.githubusercontent.com/Soliprem/paste-images/main/shellmommy.png)
+[Hǎilóng_Shīdié](hǎilóng_shīdié.md)
