@@ -3,8 +3,8 @@ title: "Hǎilóng_Shīdié"
 date: 2023-07-08T08:16:01+02:00
 ---
 
-Hǎilóng Shīdié (海龙失蝶) - "sea dragon, lost butterfly"
-età: circa 50 anni, dipende da in che anno siamo. Nasce nel 1380
+Hǎilóng Shīdié (海龙失蝶) - "sea dragon, lost butterfly"  
+età: circa 50 anni, dipende da in che anno siamo. Nasce nel 1380  
 allineamento: ??? confuso
 
 Hǎilóng è un navigatore che partì nelle spedizioni di Zheng He, e poi divenne istruttore di navigazione di un nobile (PC di Sufi).
