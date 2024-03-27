@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soliprem</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content on Soliprem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CHANGE ME</copyright>
+    <lastBuildDate>Wed, 27 Mar 2024 06:10:08 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why</title>
+      <link>http://localhost:1313/en/posts/why/</link>
+      <pubDate>Wed, 27 Mar 2024 06:10:08 +0100</pubDate>
+      <guid>http://localhost:1313/en/posts/why/</guid>
+      <description>Why make a random website? Why make a random-ass website? There so many!&#xA;I simply don&amp;rsquo;t care. Why do people make social media accounts, if they&amp;rsquo;ve nothing to share? At least as I share my nothing into the void, I stand to learn something. Maybe some new components of hugo. Maybe, who knows, one day I&amp;rsquo;ll rewrite this all into go and htmx. I fidn intrinsic value in knowing that I likely stand to learn from whatever I&amp;rsquo;m doing at any given time.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Wed, 27 Mar 2024 05:41:29 +0100</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>My name is Francesco, and I&amp;rsquo;m a 21-years-old student at the university of Bologna. Right now I&amp;rsquo;m part of the Collegio Superiore, Bologna&amp;rsquo;s excellency school. I&amp;rsquo;m currently working towards a bachelor&amp;rsquo;s in Economics, Politics and Social Sciences</description>
+    </item>
+    <item>
+      <title>Beeper</title>
+      <link>http://localhost:1313/en/posts/beeper/</link>
+      <pubDate>Wed, 24 May 2023 11:45:22 +0200</pubDate>
+      <guid>http://localhost:1313/en/posts/beeper/</guid>
+      <description>What is Beeper Beeper is a messaging app that seeks to end the issue of fragmentation, by allowing users to use any of 14 currently supported protocols for their chats. These protocols include things like Whatsapp, Telegram, Discord, Slack and many more.&#xA;Recently my turn has arrived to access to Beeper&amp;rsquo;s open beta. I&amp;rsquo;ve had a chance to try it out for the past couple of days and I must say, I&amp;rsquo;m impressed.</description>
+    </item>
+    <item>
+      <title>Montale. È Ancora Possibile La Poesia</title>
+      <link>http://localhost:1313/en/notes/montale._%C3%A8_ancora_possibile_la_poesia/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/montale._%C3%A8_ancora_possibile_la_poesia/</guid>
+      <description>Montale: è possibile la poesia?&#xA;Massificare=portare a uno stesso uniforme livello di vita i componenti della comunità sociale, annullando l&amp;rsquo;individualità e le caratteristiche personali dei singoli; spersonalizzare, rendere massa&#xA;commento sull&amp;rsquo;utile: utilità della scienza vs &amp;ldquo;inutilità&amp;rdquo; dell&amp;rsquo;arte |-&amp;gt;mercificazione dell&amp;rsquo;inutile&#xA;Periodizzazione anni 70 = postmoderno. Scrittura di getto, registro mutevole, no scansione temporale chiara. Libro postmoderno &amp;ldquo;Se una notte d&amp;rsquo;inverno un viaggiatore&amp;rdquo; Calvino |-&amp;gt;segue il neorealismo&#xA;08:37 9/17/2021 La poesia è solo spettacolo</description>
+    </item>
+    <item>
+      <title>Problema Dell Età</title>
+      <link>http://localhost:1313/en/notes/problema_dell_et%C3%A0/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/problema_dell_et%C3%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Problema Dell&#39;età</title>
+      <link>http://localhost:1313/en/notes/problema-dellet%C3%A0/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/problema-dellet%C3%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Supreme Court</title>
+      <link>http://localhost:1313/en/notes/supreme-court/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/supreme-court/</guid>
+      <description>Supreme Court The Supreme Court is supposed to give us the real, authentic interpretation of the court&#xA;Divided in 5-6 sections, and there&amp;rsquo;s one section that&amp;rsquo;s the most important: the unified section:&#xA;there&amp;rsquo;s 100 total judges, diided in groups of 10-20. When a case arrives to the SC, it arrives to one of these sections.&#xA;The Unified Section is called for any &amp;ldquo;harder&amp;rdquo;/&amp;ldquo;more important&amp;rdquo; case: it has a duty to find the most correct interpretation of the case.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/404/</guid>
+      <description>404 oops, looks like you got to someplace which doesn&amp;rsquo;t exist.&#xA;Want some candy?🍬</description>
+    </item>
+  </channel>
+</rss>

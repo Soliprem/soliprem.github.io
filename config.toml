@@ -1,148 +1,141 @@
 # Hey, thanks for using my theme. If you like this theme,checkout my repo (https://gitlab.com/avron/gruvhugo"
 # and drop a star while you're at it. ;)
-baseurl = "https://soliprem.github.io/"
+baseURL = "https://soliprem.github.io/"
 title = "Soliprem"
+# THIS IS AN EXAMPLE ON HOW YOU SHOULD CONFIGURE YOUR hugo.toml
+# See this hugo.toml in action at https://github.com/1bl4z3r/hermit-V2/blob/staging/hugo.toml
+# Example Site is Staging branch, acessible at https://github.com/1bl4z3r/hermit-V2/tree/staging
+# To see what each config does, refer to https://1bl4z3r.github.io/hermit-V2/en/posts/explaining-configs/
+# Open Issue or Pull Request at https://github.com/1bl4z3r/hermit-V2
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+theme = "hermit-v2"
+
+#[languages]
+#  [languages.en]
+#    title = 'CHANGE ME'
+#    [languages.en.params]
+#      homeSubtitle = "CHANGE ME"
+#    weight = 1
+#  [languages.fr]
+#    title = 'CHANGE ME(FR)'
+#    [languages.fr.params]
+#      homeSubtitle = "CHANGE ME"
+#    weight = 2
+#  [languages.it]
+#    title = 'CHANGE ME(IT)'
+#    [languages.it.params]
+#      homeSubtitle = "CHANGE ME"
+#    weight = 3
+ 
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
-#disqusShortname = "" # Enable comments by entering your Disqus shortname
-#googleAnalytics = "" # Enable Google Analytics by entering your tracking id
-#-------------------------------------------------------------------------------
-# DEFAULT SETTINGS
-#-------------------------------------------------------------------------------
 
-# Default Theme
-theme= "gruvhugo"
+# title = "CHANGE ME"
+# enableGitInfo = true
 
-# Default Post Extension
-defaultExtension= "html"
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+#hasCJKLanguage = true
 
-# Default metadata format for newly created frontmatter using
-# hugo new command. "toml", "yaml", or "json"
-metaDataFormat= "yaml"
+rssLimit = 10
+
+copyright = "CHANGE ME"
+enableEmoji = true
+
+#[services]
+#  [services.disqus]
+#    shortname = ''
+#  [services.googleAnalytics]
+#    id = ''
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+
+
+[params.author]
+  name = "Francesco Prem Solidoro"
+  # about = "Unversity of Bologna"
+
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
 
 [taxonomies]
-  tag      = "tags"
-  category = "categories"
-  series   = "series"
+  tag = "tags"
+  # Categories are disabled by default.
+  # category = "categories"
 
-[params.main]
-  enabled = true
-  enableKatex = true
-  metaKeywords = "fast, hugo, theme, minimal, gruvbox"
-  headerTitle = "Soliprem"
-  copyright = "© 2023 Francesco Prem Solidoro.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
-  name = "Francesco Prem Solidoro"
-  img = "img/elephant_wallpaper1.png"
-  img_title = "Thanks to Christina @ wocintechchat.com for this photo."
-  icon = "img/logo.png"
-  quote = "All, everything I understand, I only understand because I love"
-  description= "Hello, this is Soli's personal website! If you're here, chances are you know him, and can already ask for directions, but in case you don't, it's really simple. If you're here to check notes about random stuff, they're in the \"wiki\" section, and if you're looking for blog posts, they'll be in the \"posts\" section. Have a look around and enjoy!"
-  licenseUrl = "https://github.com/Soliprem/soliprem.github.io/blob/main/LICENSE"
+# Enable to get proper Mathjax support
+#[markup]
+#  [markup.goldmark]
+#    [markup.goldmark.extensions]
+#      [markup.goldmark.extensions.passthrough]
+#        enable = true
+#        [markup.goldmark.extensions.passthrough.delimiters]
+#          block = [['\[', '\]'], ['$$', '$$']]
+#          inline = [['\(', '\)']]
 
- # Social icons
-  [[params.social]]
-    name = "github"
-    url  = "soliprem.github.io"
 
-  [[params.social]]
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  description = "Soli's Personal Website"
+  images = ["img/elephant_wallpaper1.png"]
+  themeColor = "#494f5c"
+
+  homeSubtitle = "All, everything I understand, I only understand because I love"
+  footerCopyright = "2024"
+  # bgImg = ""
+  gitUrl = "https://github.com/Soliprem/"
+
+  justifyContent = false
+
+  relatedPosts = true
+  code_copy_button = true
+
+  homeSubtitlePrinter = true
+  scrollToTop = true 
+  global_mathjax = false
+  readTime = true
+  readTimeSeparator = "CHANGE ME READ TIME"
+  # legacyLayout = false
+  shareSocial = true
+  # googleTagManager = "GTM-XXXXXXXX"
+  # tagSymbol = "#"
+  # categorySymbol = "⊲"
+  # pinned = "Pinned Posts"
+  # pinnedSVGname = "pin"
+  # descriptionInPosts= true
+  # initialPublish = "Initally Posted on: "
+  
+  [[params.socialLinks]]
     name = "email"
-    url  = "mailto:mail@mail.com"
+    url = "mailto:franci.solidoro@gmail.com"
 
-  [[params.social]]
-    name = "gpg"
-    url  = "https://keys.openpgp.org/"
+  [[params.socialLinks]]
+    name = "telegram"
+    url = "https://t.me/Soliprem"
 
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/Soliprem"
-
-  [[params.social]]
+  [[params.socialLinks]]
     name = "github"
-    url  = "https://github.com/Soliprem"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
-
-[params.style]
-  # add path to custom CSS files here
-  custom_css = []
-  # add path to custom SCSS files here
-  custom_scss = []
+    url = "https://github.com/Soliprem/"
 
 [menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/about"
 
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "/post/"
+    name = "Posts"
+    url = "posts/"
+    weight = 10
 
   [[menu.main]]
-    identifier = "wiki"
-    name       = "Wiki"
-    url        = "/notes/notes"
-
-[markup]
-  defaultMarkdownHandler = "goldmark"
-  [markup.asciidocExt]
-    backend = "html5"
-    docType = "article"
-    extensions = []
-    failureLevel = "fatal"
-    noHeaderOrFooter = true
-    safeMode = "unsafe"
-    sectionNumbers = false
-    trace = false
-    verbose = true
-    workingFolderCurrent = false
-    [markup.asciidocExt.attributes]
-  [markup.blackFriday]
-    angledQuotes = false
-    footnoteAnchorPrefix = ""
-    footnoteReturnLinkContents = ""
-    fractions = true
-    hrefTargetBlank = false
-    latexDashes = true
-    nofollowLinks = false
-    noreferrerLinks = false
-    plainIDAnchors = true
-    skipHTML = false
-    smartDashes = true
-    smartypants = true
-    smartypantsQuotesNBSP = false
-    taskLists = true
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
-    [markup.goldmark.parser]
-      attribute = true
-      autoHeadingID = true
-      autoHeadingIDType = "github"
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = false
-      xhtml = false
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
-    style = "monokai"
-    tabWidth = 4
-  [markup.tableOfContents]
-    endLevel = 3
-    ordered = false
-    startLevel = 2
+    name = "About"
+    url = "about/"
+    weight = 20

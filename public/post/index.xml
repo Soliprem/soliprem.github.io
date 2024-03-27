@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Soliprem</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Soliprem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 May 2023 11:45:22 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beeper</title>
+      <link>http://localhost:1313/post/beeper/</link>
+      <pubDate>Wed, 24 May 2023 11:45:22 +0200</pubDate>
+      <guid>http://localhost:1313/post/beeper/</guid>
+      <description>What is Beeper Beeper is a messaging app that seeks to end the issue of fragmentation, by allowing users to use any of 14 currently supported protocols for their chats. These protocols include things like Whatsapp, Telegram, Discord, Slack and many more.&#xA;Recently my turn has arrived to access to Beeper&amp;rsquo;s open beta. I&amp;rsquo;ve had a chance to try it out for the past couple of days and I must say, I&amp;rsquo;m impressed.</description>
+    </item>
+  </channel>
+</rss>

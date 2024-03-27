@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang=""><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    
+    <title>Ginestra | Soliprem</title>
+    <meta name="description" content="Ginestra">
+    <meta property="og:site_name" content="Ginestra" />
+    <meta property="og:title" content="Soliprem" />
+    <meta property="og:description" content="Ginestra Qui su l’arida schiena
+del formidabil monte
+sterminator Vesevo,
+la qual null’altro allegra arbor nè fiore,
+tuoi cespi solitari intorno spargi,
+odorata ginestra,
+contenta dei deserti. Anco ti vidi
+de’ tuoi steli abbellir l’erme contrade
+che cingon la cittade
+la qual fu donna de’ mortali un tempo,
+e del perduto impero
+par che col grave e taciturno aspetto
+faccian fede e ricordo al passeggero.
+Or ti riveggo in questo suol, di tristi" />
+    <meta property="og:image" content="http://localhost:1313/img/elephant_wallpaper1.png" />
+    <meta name="keywords"
+          content="" />
+    
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css"
+        integrity="sha384-3UiQGuEI4TTMaFmGIZumfRPtfKQ3trwQE2JgosJxCnGmQpL/lJdjpcHkaaFwHlcI"
+          crossorigin="anonymous">
+
+    
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.js"
+        integrity="sha384-G0zcxDFp5LWZtDuRMnBkk3EphCK1lhEf4UEyEM693ka574TZGwo4IWwS6QLzM/2t"
+        crossorigin="anonymous">
+    </script>
+
+    
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/auto-render.min.js"
+        integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"
+        onload="renderMathInElement(document.body);">
+    </script>
+    
+    <meta name="keywords" content="fast, hugo, theme, minimal, gruvbox">
+    <link rel="icon" type="image/svg" href='http://localhost:1313/img/logo.png' />
+    <meta name="author" content='Francesco Prem Solidoro'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Hugo 0.124.1">
+    
+    <link rel="stylesheet" href="http://localhost:1313/sass/main.min.a669fc379ca0ba4d389af69be2682407e7bca16d368f2e7ad5b83c0cd80029b3.css" type="text/css" media="screen">
+
+    
+
+    
+
+    
+    </head>
+<body>
+      <div class="line" id="scrollIndicator"></div>
+      <div class="main"><div class="title">
+  <div class="name">
+    <h2><a href="http://localhost:1313/"
+	   style="text-decoration: none; color: inherit;">Soliprem</a></h2>
+  </div>
+  <div class="color-scheme">
+    <input type="checkbox" class="checkbox" id="chk" />
+    <label class="label" for="chk">
+						<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="moon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M283.211 512c78.962 0 151.079-35.925 198.857-94.792 7.068-8.708-.639-21.43-11.562-19.35-124.203 23.654-238.262-71.576-238.262-196.954 0-72.222 38.662-138.635 101.498-174.394 9.686-5.512 7.25-20.197-3.756-22.23A258.156 258.156 0 0 0 283.211 0c-141.309 0-256 114.511-256 256 0 141.309 114.511 256 256 256z"></path></svg>
+						<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="sun" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 160c-52.9 0-96 43.1-96
+										96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm246.4 80.5l-94.7-47.3 33.5-100.4c4.5-13.6-8.4-26.5-21.9-21.9l-100.4 33.5-47.4-94.8c-6.4-12.8-24.6-12.8-31 0l-47.3 94.7L92.7 70.8c-13.6-4.5-26.5 8.4-21.9 21.9l33.5 100.4-94.7 47.4c-12.8 6.4-12.8 24.6 0 31l94.7 47.3-33.5 100.5c-4.5 13.6 8.4 26.5 21.9 21.9l100.4-33.5 47.3 94.7c6.4 12.8 24.6 12.8 31 0l47.3-94.7 100.4 33.5c13.6 4.5 26.5-8.4 21.9-21.9l-33.5-100.4 94.7-47.3c13-6.5 13-24.7.2-31.1zm-155.9 106c-49.9 49.9-131.1 49.9-181 0-49.9-49.9-49.9-131.1 0-181 49.9-49.9 131.1-49.9 181 0 49.9 49.9 49.9 131.1 0 181z"></path></svg>
+      <div class="ball"></div>
+    </label>
+  </div>
+</div>
+<script>
+  const themeSetter = (theme) => {
+      document.body.classList.toggle('dark')
+      localStorage.setItem('theme', theme)
+      blockSwitcher()
+  }
+
+  const blockSwitcher = () => [...document.getElementsByTagName("BLOCKQUOTE")]
+	.forEach(b => b.classList.toggle('dark'))
+
+  const styleSwapper = () => {
+      document.body.classList.add('back-transition')
+      if (localStorage.getItem('theme') === 'dark') themeSetter('light')
+      else if (localStorage.getItem('theme') === 'light') themeSetter('dark')
+  }
+
+  if (localStorage.getItem('theme') === 'dark'){
+      themeSetter('dark')
+      document.addEventListener("DOMContentLoaded", blockSwitcher)
+  }
+ else localStorage.setItem('theme', 'light')
+
+  document.getElementById('chk').addEventListener('change',styleSwapper);
+
+  window.addEventListener("scroll", () => {
+      let height = document.documentElement.scrollHeight
+          - document.documentElement.clientHeight;
+      if(height >= 500){
+	  let winScroll = document.body.scrollTop
+              || document.documentElement.scrollTop;
+	  let scrolled = (winScroll / height) * 100;
+	  document.getElementById("scrollIndicator").style.width = scrolled + "%";
+      }
+  });
+</script>
+
+<section class="intro">
+  
+<div>
+  <h1 id="ginestra">Ginestra</h1>
+<blockquote>
+<p>Qui su l’arida schiena<br>
+del formidabil monte<br>
+sterminator Vesevo,<br>
+la qual null’altro allegra arbor nè fiore,<br>
+tuoi cespi solitari intorno spargi,<br>
+odorata ginestra,<br>
+contenta dei deserti. Anco ti vidi<br>
+de’ tuoi steli abbellir l’erme contrade<br>
+che cingon la cittade<br>
+la qual fu donna de’ mortali un tempo,<br>
+e del perduto impero<br>
+par che col grave e taciturno aspetto<br>
+faccian fede e ricordo al passeggero.<br>
+Or ti riveggo in questo suol, di tristi<br>
+lochi e dal mondo abbandonati amante,<br>
+e d’afflitte fortune ognor compagna.<br>
+Questi campi cosparsi<br>
+di ceneri infeconde, e ricoperti<br>
+dell’impietrata lava,<br>
+che sotto i passi al peregrin risona;<br>
+dove s’annida e si contorce al sole<br>
+la serpe, e dove al noto<br>
+cavernoso covil torna il coniglio;<br>
+fur liete ville e colti,<br>
+e biondeggiàr di spiche, e risonaro<br>
+di muggito d’armenti;<br>
+fur giardini e palagi,<br>
+agli ozi de’ potenti<br>
+gradito ospizio; e fur città famose<br>
+che coi torrenti suoi l’altero monte<br>
+dall’ignea bocca fulminando oppresse<br>
+con gli abitanti insieme. Or tutto intorno<br>
+una ruina involve,<br>
+dove tu siedi, o fior gentile, e quasi<br>
+i danni altrui commiserando, al cielo<br>
+di dolcissimo odor mandi un profumo,<br>
+che il deserto consola. A queste piagge<br>
+venga colui che d’esaltar con lode<br>
+il nostro stato ha in uso, e vegga quanto<br>
+è il gener nostro in cura<br>
+all’amante natura. E la possanza<br>
+qui con giusta misura<br>
+anco estimar potrà dell’uman seme,<br>
+cui la dura nutrice, ov’ei men teme,<br>
+con lieve moto in un momento annulla<br>
+in parte, e può con moti<br>
+poco men lievi ancor subitamente<br>
+annichilare in tutto.<br>
+Dipinte in queste rive<br>
+son dell’umana gente<br>
+le magnifiche sorti e progressive.</p>
+</blockquote>
+<blockquote>
+<p>Qui mira e qui ti specchia,<br>
+secol superbo e sciocco,<br>
+che il calle insino allora<br>
+dal risorto pensier segnato innanti<br>
+abbandonasti, e volti addietro i passi,<br>
+del ritornar ti vanti,<br>
+e proceder il chiami.<br>
+Al tuo pargoleggiar gl’ingegni tutti,<br>
+di cui lor sorte rea padre ti fece,<br>
+vanno adulando, ancora<br>
+ch’a ludibrio talora<br>
+t’abbian fra se. Non io<br>
+con tal vergogna scenderò sotterra;<br>
+ma il disprezzo piuttosto che si serra<br>
+di te nel petto mio,<br>
+mostrato avrò quanto si possa aperto:<br>
+ben ch’io sappia che obblio<br>
+preme chi troppo all’età propria increbbe.<br>
+Di questo mal, che teco<br>
+mi fia comune, assai finor mi rido.<br>
+Libertà vai sognando, e servo a un tempo<br>
+vuoi di novo il pensiero,<br>
+sol per cui risorgemmo<br>
+della barbarie in parte, e per cui solo<br>
+si cresce in civiltà, che sola in meglio<br>
+guida i pubblici fati.<br>
+Così ti spiacque il vero<br>
+dell’aspra sorte e del depresso loco<br>
+che natura ci diè. Per questo il tergo<br>
+vigliaccamente rivolgesti al lume<br>
+che il fe palese: e, fuggitivo, appelli<br>
+vil chi lui segue, e solo<br>
+magnanimo colui<br>
+che se schernendo o gli altri, astuto o folle,<br>
+fin sopra gli astri il mortal grado estolle.</p>
+</blockquote>
+<blockquote>
+<p>Uom di povero stato e membra inferme<br>
+che sia dell’alma generoso ed alto,<br>
+non chiama se nè stima<br>
+ricco d’or nè gagliardo,<br>
+e di splendida vita o di valente<br>
+persona infra la gente<br>
+non fa risibil mostra;<br>
+ma se di forza e di tesor mendico<br>
+lascia parer senza vergogna, e noma<br>
+parlando, apertamente, e di sue cose<br>
+fa stima al vero uguale.<br>
+Magnanimo animale<br>
+non credo io già, ma stolto,<br>
+quel che nato a perir, nutrito in pene,<br>
+dice, a goder son fatto,<br>
+e di fetido orgoglio<br>
+empie le carte, eccelsi fati e nove<br>
+felicità, quali il ciel tutto ignora,<br>
+non pur quest’orbe, promettendo in terra<br>
+a popoli che un’onda<br>
+di mar commosso, un fiato<br>
+d’aura maligna, un sotterraneo crollo<br>
+distrugge sì, che avanza<br>
+a gran pena di lor la rimembranza.<br>
+Nobil natura è quella<br>
+che a sollevar s’ardisce<br>
+gli occhi mortali incontra<br>
+al comun fato, e che con franca lingua,<br>
+nulla al ver detraendo,<br>
+confessa il mal che ci fu dato in sorte,<br>
+e il basso stato e frale;<br>
+quella che grande e forte<br>
+mostra se nel soffrir, nè gli odii e l’ire<br>
+fraterne, ancor più gravi<br>
+d’ogni altro danno, accresce<br>
+alle miserie sue, l’uomo incolpando<br>
+del suo dolor, ma dà la colpa a quella<br>
+che veramente è rea, che de’ mortali<br>
+madre è di parto e di voler matrigna.<br>
+Costei chiama inimica; e incontro a questa<br>
+congiunta esser pensando,<br>
+siccome è il vero, ed ordinata in pria<br>
+l’umana compagnia,<br>
+tutti fra se confederati estima<br>
+gli uomini, e tutti abbraccia<br>
+con vero amor, porgendo<br>
+valida e pronta ed aspettando aita<br>
+negli alterni perigli e nelle angosce<br>
+della guerra comune. Ed alle offese<br>
+dell’uomo armar la destra, e laccio porre<br>
+al vicino ed inciampo,<br>
+stolto crede così, qual fora in campo<br>
+cinto d’oste contraria, in sul più vivo<br>
+incalzar degli assalti,<br>
+gl’inimici obbliando, acerbe gare<br>
+imprender con gli amici,<br>
+e sparger fuga e fulminar col brando<br>
+infra i propri guerrieri.<br>
+Così fatti pensieri<br>
+quando fien, come fur, palesi al volgo,<br>
+e quell’orror che primo<br>
+contra l’empia natura<br>
+strinse i mortali in social catena,<br>
+fia ricondotto in parte<br>
+da verace saper, l’onesto e il retto<br>
+conversar cittadino,<br>
+e giustizia e pietade, altra radice<br>
+avranno allor che non superbe fole,<br>
+ove fondata probità del volgo<br>
+così star suole in piede<br>
+quale star può quel ch’ha in error la sede.</p>
+</blockquote>
+<blockquote>
+<p>Sovente in queste rive,<br>
+che, desolate, a bruno<br>
+veste il flutto indurato, e par che ondeggi,<br>
+seggo la notte; e sulla mesta landa<br>
+in purissimo azzurro<br>
+veggo dall’alto fiammeggiar le stelle,<br>
+cui di lontan fa specchio<br>
+il mare, e tutto di scintille in giro<br>
+per lo vòto Seren brillar il mondo.<br>
+E poi che gli occhi a quelle luci appunto,<br>
+ch’a lor sembrano un punto,<br>
+e sono immense, in guisa<br>
+che un punto a petto a lor son terra e mare<br>
+veracemente; a cui<br>
+l’uomo non pur, ma questo<br>
+globo ove l’uomo è nulla,<br>
+sconosciuto è del tutto; e quando miro<br>
+quegli ancor più senz’alcun fin remoti<br>
+nodi quasi di stelle,<br>
+ch’a noi paion qual nebbia, a cui non l’uomo<br>
+e non la terra sol, ma tutte in uno,<br>
+del numero infinite e della mole,<br>
+con l’aureo sole insiem, le nostre stelle<br>
+o sono ignote, o così paion come<br>
+essi alla terra, un punto<br>
+di luce nebulosa; al pensier mio<br>
+che sembri allora, o prole<br>
+dell’uomo? E rimembrando<br>
+il tuo stato quaggiù, di cui fa segno<br>
+il suol ch’io premo; e poi dall’altra parte,<br>
+che te signora e fine<br>
+credi tu data al Tutto, e quante volte<br>
+favoleggiar ti piacque, in questo oscuro<br>
+granel di sabbia, il qual di terra ha nome,<br>
+per tua cagion, dell’universe cose<br>
+scender gli autori, e conversar sovente<br>
+co’ tuoi piacevolmente, e che i derisi<br>
+sogni rinnovellando, ai saggi insulta<br>
+fin la presente età, che in conoscenza<br>
+ed in civil costume<br>
+sembra tutte avanzar; qual moto allora,<br>
+mortal prole infelice, o qual pensiero<br>
+verso te finalmente il cor m’assale?<br>
+Non so se il riso o la pietà prevale.</p>
+</blockquote>
+<blockquote>
+<p>Come d’arbor cadendo un picciol pomo,<br>
+cui là nel tardo autunno<br>
+maturità senz’altra forza atterra,<br>
+d’un popol di formiche i dolci alberghi,<br>
+cavati in molle gleba<br>
+con gran lavoro, e l’opre<br>
+e le ricchezze che adunate a prova<br>
+con lungo affaticar l’assidua gente<br>
+avea provvidamente al tempo estivo,<br>
+schiaccia, diserta e copre<br>
+in un punto; così d’alto piombando,<br>
+dall’utero tonante<br>
+scagliata al ciel, profondo<br>
+di ceneri e di pomici e di sassi<br>
+notte e ruina, infusa<br>
+di bollenti ruscelli,<br>
+o pel montano fianco<br>
+furiosa tra l’erba<br>
+di liquefatti massi<br>
+e di metalli e d’infocata arena<br>
+scendendo immensa piena,<br>
+le cittadi che il mar là <a href="./su">su</a> l’estremo<br>
+lido aspergea, confuse<br>
+e infranse e ricoperse<br>
+in pochi istanti: onde su quelle or pasce<br>
+la capra, e città nove<br>
+sorgon dall’altra banda, a cui sgabello<br>
+son le sepolte, e le prostrate mura<br>
+l’arduo monte al suo piè quasi calpesta.<br>
+Non ha natura al seme<br>
+dell’uom più stima o cura<br>
+che alla formica: e se più rara in quello<br>
+che nell’altra è la strage,<br>
+non avvien ciò d’altronde<br>
+fuor che l’uom sue prosapie ha men feconde.</p>
+</blockquote>
+<blockquote>
+<p>Ben mille ed ottocento<br>
+anni varcàr poi che spariro, oppressi<br>
+dall’ignea forza, i popolati seggi,<br>
+e il villanello intento<br>
+ai vigneti, che a stento in questi campi<br>
+nutre la morta zolla e incenerita,<br>
+ancor leva lo sguardo<br>
+sospettoso alla vetta<br>
+fatal, che nulla mai fatta più mite<br>
+ancor siede tremenda, ancor minaccia<br>
+a lui strage ed ai figli ed agli averi<br>
+lor poverelli. E spesso<br>
+il meschino in sul tetto<br>
+dell’ostel villereccio, alla vagante<br>
+aura giacendo tutta notte insonne,<br>
+e balzando più volte, esplora il corso<br>
+del temuto bollor, che si riversa<br>
+dall’inesausto grembo<br>
+sull’arenoso dorso, a cui riluce<br>
+di Capri la marina<br>
+e di Napoli il porto e Mergellina.<br>
+E se appressar lo vede, o se nel cupo<br>
+del domestico pozzo ode mai l’acqua<br>
+fervendo gorgogliar, desta i figliuoli,<br>
+desta la moglie in fretta, e via, con quanto<br>
+di lor cose rapir posson, fuggendo,<br>
+vede lontano l’usato<br>
+suo nido, e il picciol campo,<br>
+che gli fu dalla fame unico schermo,<br>
+preda al flutto rovente<br>
+che crepitando giunge, e inesorato<br>
+durabilmente sovra quei si spiega.<br>
+Torna al celeste raggio<br>
+dopo l’antica obblivion l’estinta<br>
+Pompei, come sepolto<br>
+scheletro, cui di terra<br>
+avarizia o pietà rende all’aperto;<br>
+e dal deserto foro<br>
+diritto infra le file<br>
+dei mozzi colonnati il peregrino<br>
+lunge contempla il bipartito giogo<br>
+e la cresta fumante,<br>
+ch’alla sparsa ruina ancor minaccia.<br>
+E nell’orror della secreta notte<br>
+per li vacui teatri, per li templi<br>
+deformi e per le rotte<br>
+case, ove i parti il pipistrello asconde,<br>
+come sinistra face<br>
+che per voti palagi atra s’aggiri,<br>
+corre il baglior della funerea lava, <br>
+che di lontan per l’ombre<br>
+rosseggia e i lochi intorno intorno tinge.<br>
+Così, dell’uomo ignara e dell’etadi<br>
+ch’ei chiama antiche, e del seguir che fanno<br>
+dopo gli avi i nepoti,<br>
+sta natura ognor verde, anzi procede<br>
+per sì lungo cammino,<br>
+che sembra star. Caggiono i regni intanto,<br>
+passan genti e linguaggi: ella nol vede:<br>
+e l’uom d’eternità s’arroga il vanto.</p>
+</blockquote>
+<blockquote>
+<p>E tu, lenta ginestra,<br>
+che di selve odorate<br>
+queste campagne dispogliate adorni,<br>
+anche tu presto alla crudel possanza<br>
+soccomberai del sotterraneo foco,<br>
+che ritornando al loco<br>
+già noto, stenderà l’avaro lembo<br>
+su tue molli foreste. E piegherai<br>
+sotto il fascio mortal non renitente<br>
+il tuo capo innocente:<br>
+ma non piegato insino allora indarno<br>
+codardamente supplicando innanzi<br>
+al futuro oppressor; ma non eretto<br>
+con forsennato orgoglio inver le stelle,<br>
+nè sul deserto, dove<br>
+e la sede e i natali<br>
+non per voler ma per fortuna avesti;<br>
+ma più saggia, ma tanto<br>
+meno inferma dell’uom, quanto le frali<br>
+tue stirpi non credesti<br>
+o dal fato o da te fatte immortali.</p>
+</blockquote>
+<h2 id="interpretazione">Interpretazione</h2>
+<p><em>&ldquo;Titanismo democratico&rdquo;</em> : <strong>Solitario (uno contro il mondo)</strong><br>
+Saffo è contro mondo destino e società: qui il titanismo è chi noma il vero</p>
+<h2 id="collegamenti">Collegamenti</h2>
+<p><a href="./Saba">Saba</a> - a mia moglie (cavernoso covil torna il coniglio)<br>
+- Commiato</p>
+
+</div>
+
+</section>
+<footer id="footer">
+    <strong></strong>
+    <div class="social">
+        &nbsp;
+<a href="soliprem.github.io" target="_blank" rel="me" title="Github" referrerpolicy="no-referrer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+	stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+	<path
+		d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
+	</path>
+</svg>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mail@mail.com" target="_blank" rel="me" title="Email" referrerpolicy="no-referrer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+	stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+	<path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+	<polyline points="22,6 12,13 2,6"></polyline>
+</svg>
+</a>
+&nbsp;&nbsp;
+<a href="https://keys.openpgp.org/" target="_blank" rel="me" title="Gpg" referrerpolicy="no-referrer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="none">
+	<path
+		d="M2.968 11.583h1.274v-3.82A7.76 7.76 0 0 1 12.005 0a7.76 7.76 0 0 1 7.762 7.763v3.783c-.018.01-.037.028-.056.037l-.01.01-.008.009h-.01l-.01.01-.009.009H19.636l-.018.018h-.02l-.018.01h-.01l-.009.01-.009.009h-.01l-.009.009-.009.01-.01.009-.009.009-.028.019-.019.01-.028.018-.018.01-.02.009-.027.018-.019.01-.01.009-.027.019-.02.01-.046.027-.019.01-.018.009-.02.01h-.008l-.057.027h-.019c-.018.01-.037.02-.065.038h-.01l-.009.01-.028.018-.018.01-.029.018-.018.01h-.01l-.028.018-.018.01-.02.009c-.018.01-.046.019-.065.028l-.018.01-.02.009-.037.018-.037.02-.047.018-.047.019-.019.009-.037.019-.019.01c-1.545.739-4.017 1.516-8.708 1.853-3.362.244-5.403 1.723-6.724 3.502zm4.842 0h8.371v-3.82a4.184 4.184 0 0 0-4.186-4.186A4.184 4.184 0 0 0 7.81 7.763zm13.222 1.461V24H5.572c1.704-.946 2.968-.852 5.075-.787 2.865.094 6.03-1.105 7.585-2.696 1.554-1.592-.14-.375-1.901.074-1.76.45-5.17.497-7.454-.103 7.173.094 9.973-2.219 11.555-4.307 1.583-2.079-.683-.365-2.153.356-1.47.72-4.036 1.227-6.864.852 4.27-.01 7.52-2.144 9.607-4.345z" />
+</svg>
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/Soliprem" target="_blank" rel="me" title="Twitter" referrerpolicy="no-referrer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+	stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+	<path
+		d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z">
+	</path>
+</svg>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Soliprem" target="_blank" rel="me" title="Github" referrerpolicy="no-referrer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+	stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+	<path
+		d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
+	</path>
+</svg>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/" target="_blank" rel="me" title="Linkedin" referrerpolicy="no-referrer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+	stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+	<path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+	<rect x="2" y="9" width="4" height="12"></rect>
+	<circle cx="4" cy="4" r="2"></circle>
+</svg>
+</a>
+&nbsp;
+    </div><strong></strong>
+    <p style="color:grey;">© 2023 Francesco Prem Solidoro.  <a href="https://creativecommons.org/licenses/by/4.0/">Some rights reserved</a>.</p>
+</footer>
+</div>
+    </body>
+</html>
