@@ -1,7 +1,6 @@
 ---
 title: "Why"
 date: 2024-03-27T06:10:08+01:00
-draft: true
 ---
 
 # Why make a random website?
