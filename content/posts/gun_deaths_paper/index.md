@@ -193,7 +193,7 @@ standard deviation of 23.60, instead the mean of the Gun Regualtion
 Index is 0.21, with a standard deviation of 0.23, again showing a big
 variance in our data.
 
-![imd](/plots/descriptive_plots/Gun_Regulation_index_in_states.png)
+![imd](plots/descriptive_plots/Gun_Regulation_index_in_states.png)
 
 As it's easily interpretable most of the states have a kept a very low
 index for the time period analyzed in this study, but there are
@@ -203,13 +203,13 @@ not a surprise, as the difference of positions of prominent political
 figures in the respective states are pretty representative of their -be
 it high or low- index score.
 
-![imd](/plots/descriptive_plots/Gun_Regulation_Index_over_time_(by_state).png)
+![imd](plots/descriptive_plots/Gun_Regulation_Index_over_time_(by_state).png)
 
 In order to understand the importance of the division of the states in
 accordance to their scores, it's important to visualize the position of
 the US states, as the differences will become painfully obvious.
 
-![imd](/plots/descriptive_plots/Index_score_count.png)
+![imd](plots/descriptive_plots/Index_score_count.png)
 
 This bar chart represents the scores of all the US states across our 19
 year time period, and it's pretty easy to say that seeing these
@@ -229,8 +229,8 @@ suggesting the importance of a criteria of distinction (in our case the
 index score) in the state-level analysis to capture efficiently
 correlations and statistically useful results.
 
-![imd](/plots/descriptive_plots/Violent_crime_rate_and_population.png)
-![imd](/plots/descriptive_plots/Violent_crime_rate_over_time_by_state.png)
+![imd](plots/descriptive_plots/Violent_crime_rate_and_population.png)
+![imd](plots/descriptive_plots/Violent_crime_rate_over_time_by_state.png)
 
 ## Explorative Analysis
 
@@ -245,7 +245,7 @@ thus create a multiple regressor linear regression model.\
 The explorative analysis began by plotting and calculating the mean gun
 death rate (by 100,000) over time, and comparing it with the mean Gun
 Regulation index over time.
-![imd](/plots/explorative_plots/Death_rate_vs_Gun_Regulation.png)
+![imd](plots/explorative_plots/Death_rate_vs_Gun_Regulation.png)
 
 At a first glance just by looking at the graphs side to side may lead us
 to think that even if the Gun Regulation Index has been rising over time
@@ -258,14 +258,14 @@ By calulating the Pearson correlation between the Gun Regulation Index
 and the gun death rate we're returned with a value -0.624, suggesting a
 non-negligible negative correlation between them
 
-![imd](/plots/explorative_plots/General_gdvsgr.png)
+![imd](plots/explorative_plots/General_gdvsgr.png)
 
 By plotting them in the same graph the negative correlation becomes
 obvious, but we can also notice the skewedness of observations towards
 the low values of the Gun Regulation Index, so in accordance to our
 prior suggestion we split the observations in accordance with their own
 Index score bracket and run the same analysis.
-![imd](/plots/explorative_plots/comb_gdvsgr.png) By splitting the
+![imd](plots/explorative_plots/comb_gdvsgr.png) By splitting the
 observations we get a clearer image: the -0.624 correlation isn't
 consistent across all states, but the pattern can still be observed.
 
@@ -295,17 +295,17 @@ linear regression it was at this point that we decided to aid our
 analysis with the inclusion of the third dataset, with the aim of
 constructing some additional linear models and useful plots.
 
-![imd](/plots/explorative_plots/VCR_vs_DR_vs_GR.png) Before cimenting
+![imd](plots/explorative_plots/VCR_vs_DR_vs_GR.png) Before cimenting
 ourselves into the actual model building, we included the evolution of
 the mean violent crime rate over time and, once again an immediate
 analysis may lead us to think that as the Gun Regulation Index increased
 the violent crime rate decreased, and this is also supported by the
 corrlation between them (-0.293), and their plot.
-![imd](/plots/explorative_plots/Violent_crime_vs_index_allstates.png) But we
+![imd](plots/explorative_plots/Violent_crime_vs_index_allstates.png) But we
 very quickly found out that this plot is actually very misleading. It
 simply takes a division of states by score and we can analyze much more
 interesting data.
-![imd](/plots/explorative_plots/Violent_crime_vs_index_comb.png) Now that
+![imd](plots/explorative_plots/Violent_crime_vs_index_comb.png) Now that
 the plots are much clearer, while our pattern in the sheer size of the
 negative correlation between our values in medium score states is
 visible to the naked eye, we can also observe some instances of positive
@@ -334,11 +334,11 @@ Now, we may also be interested in the relationship between gun deaths
 and the violent crime rate, so we calculated once again the correlation
 between them and obtained a value of 0.471, showing that indeed they are
 correlated.
-![imd](/plots/explorative_plots/Violent_crime_vs_Gun_death_allstates.png)
+![imd](plots/explorative_plots/Violent_crime_vs_Gun_death_allstates.png)
 
 Now,to understand relationships on a deeper level, we once again divided
 the states in accordance to their score.
-![imd](/plots/explorative_plots/Violent_crimes_vs_gun_deaths_comb.png)
+![imd](plots/explorative_plots/Violent_crimes_vs_gun_deaths_comb.png)
 
 In this case we can observe that all of our brackets contain some level
 of positive correlation, in particular:
@@ -380,7 +380,7 @@ unexplained variance.
 
 We then plot these results in a 3d interactive plot (available for
 download in the GitHub repository for this study and [here](https://soliprems.web.app/gd_gr_vc_3dplot.html)), that due to the limitations of pdfs (and skill issues here in the web article) can be relayed here only in the form
-of an image. ![imd](/plots/explorative_plots/gd_gr_vc_plot.png)
+of an image. ![imd](plots/explorative_plots/gd_gr_vc_plot.png)
 
 <!-- {{< load-plotly >}} -->
 <!-- {{< plotly json="plotly/gun_stuff.json" height="400px" >}} -->
