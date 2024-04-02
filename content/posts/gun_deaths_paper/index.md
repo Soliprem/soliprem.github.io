@@ -379,14 +379,12 @@ got smaller means that we achieved our aim of covering some of the
 unexplained variance.
 
 We then plot these results in a 3d interactive plot (available for
-download in the GitHub repository for this study and
-[here](https://soliprems.web.app/gd_gr_vc_3dplot.html)),
-that due to the limitations of pdfs can be relayed here only in the form
+download in the GitHub repository for this study and [here](https://soliprems.web.app/gd_gr_vc_3dplot.html)), that due to the limitations of pdfs (and skill issues here in the web article) can be relayed here only in the form
 of an image. ![imd](/plots/explorative_plots/gd_gr_vc_plot.png)
 
-{{< load-plotly >}}
-{{< plotly json="plotly/gun_stuff.json" height="400px" >}}
-
+<!-- {{< load-plotly >}} -->
+<!-- {{< plotly json="plotly/gun_stuff.json" height="400px" >}} -->
+<!---->
 # Conclusions
 
 The relationship that emerges from the data is clear, even if not
