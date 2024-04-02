@@ -21,7 +21,7 @@
 <meta itemprop="name" content="An analysis of the correlation between gun regulation and public safety in the United States of America">
 <meta itemprop="description" content="Abstract&mdash; The aim of this paper is to provde a summary analysis of the data regarding the effectiveness of gunrestriction policy in diminishing the numberof gun-related deaths. We do so by conducting an analysis of three different datasets, and by combining the data we gathered from them, constructing a linear regression model. The constructed linear regression model shows a negative correlation between the gun-related death rate and the amount of legislation present within the state."><meta itemprop="datePublished" content="2024-04-02T00:56:05+02:00" />
 <meta itemprop="dateModified" content="2024-04-02T00:56:05+02:00" />
-<meta itemprop="wordCount" content="2588"><meta itemprop="image" content="http://localhost:1313/img/elephant_wallpaper1.png" />
+<meta itemprop="wordCount" content="2584"><meta itemprop="image" content="http://localhost:1313/img/elephant_wallpaper1.png" />
 <meta itemprop="keywords" content="" /><meta property="og:title" content="An analysis of the correlation between gun regulation and public safety in the United States of America" />
 <meta property="og:description" content="Abstract&mdash; The aim of this paper is to provde a summary analysis of the data regarding the effectiveness of gunrestriction policy in diminishing the numberof gun-related deaths. We do so by conducting an analysis of three different datasets, and by combining the data we gathered from them, constructing a linear regression model. The constructed linear regression model shows a negative correlation between the gun-related death rate and the amount of legislation present within the state." />
 <meta property="og:type" content="article" />
@@ -86,12 +86,12 @@
 				<h1>An analysis of the correlation between gun regulation and public safety in the United States of America</h1>
 			</header>
 			<div class="post-info"><p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-feather"><path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"></path><line x1="16" y1="8" x2="2" y2="22"></line><line x1="17.5" y1="15" x2="9" y2="15"></line></svg><a href="" target="_blank">Francesco Prem Solidoro, Michele Salvi</a></p>
-<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>2588 Words
+<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>2584 Words
     CHANGE ME READ TIME
     
     
     
-    11 Minutes, 45 Seconds</p>
+    11 Minutes, 44 Seconds</p>
 <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2024-04-02 00:56 &#43;0200</p></div>
 			<hr class="post-end">
 			<div class="content">
@@ -288,12 +288,12 @@ people.</p>
 standard deviation of 605.09, the death rate instead has an average of
 11.90% and a standard deviation of 4.67%, these descriptive statistics,
 although weak alone, show a variance of considerabe size.</p>
-<p><img src="/plots/descriptive_plots/Deaths_and_Population.png" alt="imd">
-![imd](/plots/descriptive_plots/Gun_Deaths_and_Population_over_time_(by year).png)</p>
+<p><img src="plots/descriptive_plots/Deaths_and_Population.png" alt="imd"></p>
+<p><img src="plots/descriptive_plots/Gun_Deaths_and_Population_over_time_(by_year).png" alt="imd"></p>
 <p>The graphs show the variance and its evolution over time.</p>
 <p>To aid visualization we also constructed a histogram representing the
 death count for each state
-<img src="/plots/descriptive_plots/Deaths_Histogram.png" alt="imd"></p>
+<img src="plots/descriptive_plots/Deaths_Histogram.png" alt="imd"></p>
 <h3 id="dataset-2-1">Dataset 2<a href="#dataset-2-1" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3>
 <p>For the law provision dataset the mean of the law total is 24.92, with a
 standard deviation of 23.60, instead the mean of the Gun Regualtion
@@ -306,8 +306,8 @@ instances of some states, for example the state of California, keeping
 very high Index values across the whole time period. This wide gap was
 not a surprise, as the difference of positions of prominent political
 figures in the respective states are pretty representative of their -be
-it high or low- index score.
-![imd](/plots/descriptive_plots/Gun_Regulation_Index_over_time_(by state).png)</p>
+it high or low- index score.</p>
+<p><img src="/plots/descriptive_plots/Gun_Regulation_Index_over_time_(by_state).png" alt="imd"></p>
 <p>In order to understand the importance of the division of the states in
 accordance to their scores, it&rsquo;s important to visualize the position of
 the US states, as the differences will become painfully obvious.</p>

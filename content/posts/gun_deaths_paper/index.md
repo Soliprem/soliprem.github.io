@@ -175,14 +175,16 @@ standard deviation of 605.09, the death rate instead has an average of
 11.90% and a standard deviation of 4.67%, these descriptive statistics,
 although weak alone, show a variance of considerabe size.
 
-![imd](/plots/descriptive_plots/Deaths_and_Population.png)
-![imd](/plots/descriptive_plots/Gun_Deaths_and_Population_over_time_(by year).png)
+![imd](plots/descriptive_plots/Deaths_and_Population.png)
+
+![imd](plots/descriptive_plots/Gun_Deaths_and_Population_over_time_(by_year).png)
+
 
 The graphs show the variance and its evolution over time.
 
 To aid visualization we also constructed a histogram representing the
 death count for each state
-![imd](/plots/descriptive_plots/Deaths_Histogram.png)
+![imd](plots/descriptive_plots/Deaths_Histogram.png)
 
 ### Dataset 2
 
@@ -200,7 +202,8 @@ very high Index values across the whole time period. This wide gap was
 not a surprise, as the difference of positions of prominent political
 figures in the respective states are pretty representative of their -be
 it high or low- index score.
-![imd](/plots/descriptive_plots/Gun_Regulation_Index_over_time_(by state).png)
+
+![imd](/plots/descriptive_plots/Gun_Regulation_Index_over_time_(by_state).png)
 
 In order to understand the importance of the division of the states in
 accordance to their scores, it's important to visualize the position of

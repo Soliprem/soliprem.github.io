@@ -209,12 +209,12 @@ people.</p>
 standard deviation of 605.09, the death rate instead has an average of
 11.90% and a standard deviation of 4.67%, these descriptive statistics,
 although weak alone, show a variance of considerabe size.</p>
-<p><img src="/plots/descriptive_plots/Deaths_and_Population.png" alt="imd">
-![imd](/plots/descriptive_plots/Gun_Deaths_and_Population_over_time_(by year).png)</p>
+<p><img src="plots/descriptive_plots/Deaths_and_Population.png" alt="imd"></p>
+<p><img src="plots/descriptive_plots/Gun_Deaths_and_Population_over_time_(by_year).png" alt="imd"></p>
 <p>The graphs show the variance and its evolution over time.</p>
 <p>To aid visualization we also constructed a histogram representing the
 death count for each state
-<img src="/plots/descriptive_plots/Deaths_Histogram.png" alt="imd"></p>
+<img src="plots/descriptive_plots/Deaths_Histogram.png" alt="imd"></p>
 <h3 id="dataset-2-1">Dataset 2</h3>
 <p>For the law provision dataset the mean of the law total is 24.92, with a
 standard deviation of 23.60, instead the mean of the Gun Regualtion
@@ -227,8 +227,8 @@ instances of some states, for example the state of California, keeping
 very high Index values across the whole time period. This wide gap was
 not a surprise, as the difference of positions of prominent political
 figures in the respective states are pretty representative of their -be
-it high or low- index score.
-![imd](/plots/descriptive_plots/Gun_Regulation_Index_over_time_(by state).png)</p>
+it high or low- index score.</p>
+<p><img src="/plots/descriptive_plots/Gun_Regulation_Index_over_time_(by_state).png" alt="imd"></p>
 <p>In order to understand the importance of the division of the states in
 accordance to their scores, it&rsquo;s important to visualize the position of
 the US states, as the differences will become painfully obvious.</p>
