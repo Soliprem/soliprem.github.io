@@ -11,7 +11,7 @@ tags: ["Research", "Paper", "Statistics", "GunControl"]
 
 # Introduction
 
-The topic of gun regulation has been discussed at length in the United States of America, because of the real and present danger that it poses to Public Safety. There's little doubt that policy has potential to have a substantial effect, and information coming from data analysis can be useful in supporeting the decision making. The aim of this paper is to conduct a summmary analysis of the correlation between overall presence of gun restriction and the rate of deaths caused by guns.
+The topic of gun regulation has been discussed at length in the United States of America, because of the real and present danger that it poses to Public Safety. There's little doubt that policy has potential to have a substantial effect, and information coming from data analysis can be useful in supporting the decision making. The aim of this paper is to conduct a summmary analysis of the correlation between overall presence of gun restriction and the rate of deaths caused by guns.
 
 ## Paper overview
 
