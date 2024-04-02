@@ -384,6 +384,9 @@ download in the GitHub repository for this study and
 that due to the limitations of pdfs can be relayed here only in the form
 of an image. ![imd](/plots/explorative_plots/gd_gr_vc_plot.png)
 
+{{< load-plotly >}}
+{{< plotly json="plotly/gun_stuff.json" height="400px" >}}
+
 # Conclusions
 
 The relationship that emerges from the data is clear, even if not
