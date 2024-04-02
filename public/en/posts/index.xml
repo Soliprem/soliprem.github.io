@@ -220,7 +220,7 @@ death count for each state
 standard deviation of 23.60, instead the mean of the Gun Regualtion
 Index is 0.21, with a standard deviation of 0.23, again showing a big
 variance in our data.</p>
-<p><img src="/plots/descriptive_plots/Gun_Regulation_index_in_states.png" alt="imd"></p>
+<p><img src="plots/descriptive_plots/Gun_Regulation_index_in_states.png" alt="imd"></p>
 <p>As it&rsquo;s easily interpretable most of the states have a kept a very low
 index for the time period analyzed in this study, but there are
 instances of some states, for example the state of California, keeping
@@ -228,11 +228,11 @@ very high Index values across the whole time period. This wide gap was
 not a surprise, as the difference of positions of prominent political
 figures in the respective states are pretty representative of their -be
 it high or low- index score.</p>
-<p><img src="/plots/descriptive_plots/Gun_Regulation_Index_over_time_(by_state).png" alt="imd"></p>
+<p><img src="plots/descriptive_plots/Gun_Regulation_Index_over_time_(by_state).png" alt="imd"></p>
 <p>In order to understand the importance of the division of the states in
 accordance to their scores, it&rsquo;s important to visualize the position of
 the US states, as the differences will become painfully obvious.</p>
-<p><img src="/plots/descriptive_plots/Index_score_count.png" alt="imd"></p>
+<p><img src="plots/descriptive_plots/Index_score_count.png" alt="imd"></p>
 <p>This bar chart represents the scores of all the US states across our 19
 year time period, and it&rsquo;s pretty easy to say that seeing these
 discrepancies also shaped our future analyisis and prompted us towards
@@ -247,8 +247,8 @@ deviation of 34431.64, while the mean of the violent crime rate is
 suggesting the importance of a criteria of distinction (in our case the
 index score) in the state-level analysis to capture efficiently
 correlations and statistically useful results.</p>
-<p><img src="/plots/descriptive_plots/Violent_crime_rate_and_population.png" alt="imd">
-<img src="/plots/descriptive_plots/Violent_crime_rate_over_time_by_state.png" alt="imd"></p>
+<p><img src="plots/descriptive_plots/Violent_crime_rate_and_population.png" alt="imd">
+<img src="plots/descriptive_plots/Violent_crime_rate_over_time_by_state.png" alt="imd"></p>
 <h2 id="explorative-analysis">Explorative Analysis</h2>
 <p>Having established the nature and characteristics of the three datasets,
 we now proceed to conduct an analysis of the combination of their data.
@@ -261,7 +261,7 @@ thus create a multiple regressor linear regression model.<br>
 The explorative analysis began by plotting and calculating the mean gun
 death rate (by 100,000) over time, and comparing it with the mean Gun
 Regulation index over time.
-<img src="/plots/explorative_plots/Death_rate_vs_Gun_Regulation.png" alt="imd"></p>
+<img src="plots/explorative_plots/Death_rate_vs_Gun_Regulation.png" alt="imd"></p>
 <p>At a first glance just by looking at the graphs side to side may lead us
 to think that even if the Gun Regulation Index has been rising over time
 the Deaths by guns still don&rsquo;show any signs of decreasing, but a closer
@@ -271,13 +271,13 @@ deeper and look for substantial causal effects.</p>
 <p>By calulating the Pearson correlation between the Gun Regulation Index
 and the gun death rate we&rsquo;re returned with a value -0.624, suggesting a
 non-negligible negative correlation between them</p>
-<p><img src="/plots/explorative_plots/General_gdvsgr.png" alt="imd"></p>
+<p><img src="plots/explorative_plots/General_gdvsgr.png" alt="imd"></p>
 <p>By plotting them in the same graph the negative correlation becomes
 obvious, but we can also notice the skewedness of observations towards
 the low values of the Gun Regulation Index, so in accordance to our
 prior suggestion we split the observations in accordance with their own
 Index score bracket and run the same analysis.
-<img src="/plots/explorative_plots/comb_gdvsgr.png" alt="imd"> By splitting the
+<img src="plots/explorative_plots/comb_gdvsgr.png" alt="imd"> By splitting the
 observations we get a clearer image: the -0.624 correlation isn&rsquo;t
 consistent across all states, but the pattern can still be observed.</p>
 <p>The correlations for each groups are as follows:</p>
@@ -307,17 +307,17 @@ from the full value only if they have a high enough index.</p>
 linear regression it was at this point that we decided to aid our
 analysis with the inclusion of the third dataset, with the aim of
 constructing some additional linear models and useful plots.</p>
-<p><img src="/plots/explorative_plots/VCR_vs_DR_vs_GR.png" alt="imd"> Before cimenting
+<p><img src="plots/explorative_plots/VCR_vs_DR_vs_GR.png" alt="imd"> Before cimenting
 ourselves into the actual model building, we included the evolution of
 the mean violent crime rate over time and, once again an immediate
 analysis may lead us to think that as the Gun Regulation Index increased
 the violent crime rate decreased, and this is also supported by the
 corrlation between them (-0.293), and their plot.
-<img src="/plots/explorative_plots/Violent_crime_vs_index_allstates.png" alt="imd"> But we
+<img src="plots/explorative_plots/Violent_crime_vs_index_allstates.png" alt="imd"> But we
 very quickly found out that this plot is actually very misleading. It
 simply takes a division of states by score and we can analyze much more
 interesting data.
-<img src="/plots/explorative_plots/Violent_crime_vs_index_comb.png" alt="imd"> Now that
+<img src="plots/explorative_plots/Violent_crime_vs_index_comb.png" alt="imd"> Now that
 the plots are much clearer, while our pattern in the sheer size of the
 negative correlation between our values in medium score states is
 visible to the naked eye, we can also observe some instances of positive
@@ -350,10 +350,10 @@ Now, we may also be interested in the relationship between gun deaths
 and the violent crime rate, so we calculated once again the correlation
 between them and obtained a value of 0.471, showing that indeed they are
 correlated.
-<img src="/plots/explorative_plots/Violent_crime_vs_Gun_death_allstates.png" alt="imd"></p>
+<img src="plots/explorative_plots/Violent_crime_vs_Gun_death_allstates.png" alt="imd"></p>
 <p>Now,to understand relationships on a deeper level, we once again divided
 the states in accordance to their score.
-<img src="/plots/explorative_plots/Violent_crimes_vs_gun_deaths_comb.png" alt="imd"></p>
+<img src="plots/explorative_plots/Violent_crimes_vs_gun_deaths_comb.png" alt="imd"></p>
 <p>In this case we can observe that all of our brackets contain some level
 of positive correlation, in particular:</p>
 <ul>
@@ -396,7 +396,7 @@ got smaller means that we achieved our aim of covering some of the
 unexplained variance.</p>
 <p>We then plot these results in a 3d interactive plot (available for
 download in the GitHub repository for this study and <a href="https://soliprems.web.app/gd_gr_vc_3dplot.html">here</a>), that due to the limitations of pdfs (and skill issues here in the web article) can be relayed here only in the form
-of an image. <img src="/plots/explorative_plots/gd_gr_vc_plot.png" alt="imd"></p>
+of an image. <img src="plots/explorative_plots/gd_gr_vc_plot.png" alt="imd"></p>
 <!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
@@ -456,7 +456,7 @@ the work</p>
 			<content type="html"><![CDATA[<h1 id="why-make-a-random-website">Why make a random website?</h1>
 <p>Why make a random-ass website? There so many!</p>
 <p>I simply don&rsquo;t care. Why do people make social media accounts, if they&rsquo;ve nothing to share? At least as I share my nothing into the void, I stand to learn something. Maybe some new components of hugo. Maybe, who knows, one day I&rsquo;ll rewrite this all into go and htmx. I find intrinsic value in knowing that I likely stand to learn from whatever I&rsquo;m doing at any given time.</p>
-<p>The real deal comes in the fact that this is just <em>my</em> space. It&rsquo;s not twitter, instagram, or whatever. It&rsquo;s me, and I have all of the freedom I could dream for to express myself within this website. I feel like social media has a chokehold on both free time and creative expression, and I seek to change it on a personal level by minimizing my engagement with it. So from now on, I&rsquo;ll try to keep it simple, and write things here. <a href="url">this</a> is an RSS feed you can subscribe to to know when I post new things.</p>
+<p>The real deal comes in the fact that this is just <em>my</em> space. It&rsquo;s not twitter, instagram, or whatever. It&rsquo;s me, and I have all of the freedom I could dream for to express myself within this website. I feel like social media has a chokehold on both free time and creative expression, and I seek to change it on a personal level by minimizing my engagement with it. So from now on, I&rsquo;ll try to keep it simple, and write things here. <a href="/posts/index.xml">this</a> is an RSS feed you can subscribe to to know when I post new things.</p>
 ]]></content>
 		</item>
 		

@@ -2,6 +2,7 @@
 title: "An analysis of the correlation between gun regulation and public safety in the United States of America"
 date: 2024-04-02T00:56:05+02:00
 author: Francesco Prem Solidoro, Michele Salvi
+tags: ["Research", "Paper", "Statistics", "GunControl"]
 ---
 
    *Abstract*--- The aim of this paper is to provde a summary analysis
