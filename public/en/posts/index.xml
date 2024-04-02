@@ -395,24 +395,11 @@ values, since also the intercept and the coefficient for Gun Regulation
 got smaller means that we achieved our aim of covering some of the
 unexplained variance.</p>
 <p>We then plot these results in a 3d interactive plot (available for
-download in the GitHub repository for this study and
-<a href="https://soliprems.web.app/gd_gr_vc_3dplot.html">here</a>),
-that due to the limitations of pdfs can be relayed here only in the form
+download in the GitHub repository for this study and <a href="https://soliprems.web.app/gd_gr_vc_3dplot.html">here</a>), that due to the limitations of pdfs (and skill issues here in the web article) can be relayed here only in the form
 of an image. <img src="/plots/explorative_plots/gd_gr_vc_plot.png" alt="imd"></p>
-<p>
-  
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-
-
-
-
-<div id="plotly/gun_stuff.json" class="plotly" style="height:400px"></div>
-<script>
-Plotly.d3.json("plotly/gun_stuff.json", function(err, fig) {
-    Plotly.plot('plotly\/gun_stuff.json', fig.data, fig.layout, {responsive: true});
-});
-</script>
-</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <h1 id="conclusions">Conclusions</h1>
 <p>The relationship that emerges from the data is clear, even if not
 perfectly consistent: there&rsquo;s a negative correlation between our gun
