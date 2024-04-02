@@ -6,7 +6,7 @@
     <description>Recent content in Paper on Soliprem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2024</copyright>
+    <copyright>all rights reserved</copyright>
     <lastBuildDate>Tue, 02 Apr 2024 00:56:05 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/paper/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,7 +14,7 @@
       <link>http://localhost:1313/en/posts/gun_deaths_paper/</link>
       <pubDate>Tue, 02 Apr 2024 00:56:05 +0200</pubDate>
       <guid>http://localhost:1313/en/posts/gun_deaths_paper/</guid>
-      <description>Abstract&amp;mdash; The aim of this paper is to provde a summary analysis of the data regarding the effectiveness of gunrestriction policy in diminishing the numberof gun-related deaths. We do so by conducting an analysis of three different datasets, and by combining the data we gathered from them, constructing a linear regression model. The constructed linear regression model shows a negative correlation between the gun-related death rate and the amount of legislation present within the state.</description>
+      <description>Abstract&amp;mdash; The aim of this paper is to provde a summary analysis of the data regarding the effectiveness of gunrestriction policy in diminishing the numberof gun-related deaths. We do so by conducting an analysis of three different datasets, and by combining the data we gathered from them, and constructing a linear regression model. The constructed linear regression model shows a negative correlation between the gun-related death rate and the amount of legislation present within the state.</description>
     </item>
   </channel>
 </rss>
