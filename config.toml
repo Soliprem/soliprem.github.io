@@ -40,7 +40,7 @@ pygmentsUseClasses  = true
 
 rssLimit = 10
 
-copyright = "CHANGE ME"
+copyright = "2024"
 enableEmoji = true
 
 #[services]
