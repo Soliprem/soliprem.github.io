@@ -224,7 +224,7 @@ With the construction of the Multiple linear regression model we obtained the va
 
 Even if the coefficient of the violent crime rate returned pretty small values, since also the intercept and the coefficient for Gun Regulation got smaller means that we achieved our aim of covering some of the unexplained variance.
 
-We then plot these results in a 3d interactive plot (available for download in the GitHub repository for this study and #link("https://soliprems.web.app/gd_gr_vc_3dplot.html", "here")), that due to the limitations of pdfs (and skill issues in the web version) can be relayed here only in the form of an image.
+We then plot these results in a 3d interactive plot (available for download in the GitHub repository for this study and [here](https://soliprems.web.app/gd_gr_vc_3dplot.html), that due to the limitations of pdfs (and skill issues in the web version) can be relayed here only in the form of an image.
 ![imd](plots/explorative_plots/gd_gr_vc_plot.png)
 
 <!-- {{< load-plotly >}} -->
