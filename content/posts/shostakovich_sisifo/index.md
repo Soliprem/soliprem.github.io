@@ -134,7 +134,7 @@ Shostakovich nota l'occasione per compere il singolo più grande atto di
 ribellione della sua carriera, e spingere per un'altra volta il suo
 macigno finto in cima. Per assicurarsi che passi la censura,
 Shostakovich scrive la sinfonia in Mi bemolle maggiore. La tonalità
-dell" *Eroica* di Behetoven. Questo viene immediatamente minato da un
+dell' *Eroica* di Behetoven. Questo viene immediatamente minato da un
 accordo di sol bemolle già alla quarta battuta, ma probabilmente la
 tonalità è stata sufficiente a non farlo notare.\
 Quello che consegna Shostakovich è un'opera leggera, spensierata,
@@ -152,7 +152,7 @@ il *motif* del trombone viene ripetuto per 5 volte fuori posto, come se
 il trombone avesse fretta e partisse troppo presto. Questa è una poco
 sottile presa in giro dell'entusiasmo degli amanti del partito che
 dimostrano nel voler essere sempre i primi a dichiarare il loro supporto
-al partito, e da un tono grottesco e francamente ridicolo all'intero
+al partito, e dà un tono grottesco e francamente ridicolo all'intero
 primo movimento.\
 Il tono giocoso, scherzoso, ed ovviamente grottesco della sinfonia non
 passa inosservato da Stalin che, in seguito all'esibizione, procede a
@@ -165,7 +165,7 @@ riuscirà ad uscire da questo stato di isolamento.
 
 Riprendendo l'inizio de 'Il mito di Sisifo" di Camus, l'unica questione
 filosofica degna di considerazione è il suicidio.\
-Shostakovich è una figura, a mio avviso, una figura sisifica perchè di
+Shostakovich è, a mio avviso, una figura sisifica perchè di
 alte ambizioni nella sua origine, viene lanciato in una vita di lunghi
 ed incessabili tormenti. Un mondo in cui viene posto davanti all'assurda
 combinazione di uno spirito creativo e di una censura stringente che gli
