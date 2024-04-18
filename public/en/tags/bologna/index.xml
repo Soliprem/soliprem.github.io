@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bologna on Soliprem</title>
+    <link>http://localhost:1313/en/tags/bologna/</link>
+    <description>Recent content in Bologna on Soliprem</description>
+    <generator>Hugo 0.125.0</generator>
+    <language>en-us</language>
+    <copyright>2024</copyright>
+    <lastBuildDate>Tue, 02 Apr 2024 18:50:49 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/bologna/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TIL that San&#39;Orsola is pretty much the size of a small town</title>
+      <link>http://localhost:1313/en/posts/sant_orsola/</link>
+      <pubDate>Tue, 02 Apr 2024 18:50:49 +0200</pubDate>
+      <guid>http://localhost:1313/en/posts/sant_orsola/</guid>
+      <description>Easter night I had the pleasure to visit the Sant&amp;rsquo;Orsola policlinic&amp;rsquo;s ER. On the way there, I had to cross the entire hostpital&amp;rsquo;s grounds. I must say, they really are impressive. It felt like walking through a campus mixed with a park. Really nice.</description>
+    </item>
+  </channel>
+</rss>

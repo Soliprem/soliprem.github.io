@@ -4,11 +4,18 @@
     <title>Soliprem</title>
     <link>http://localhost:1313/en/</link>
     <description>Recent content on Soliprem</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.0</generator>
     <language>en-us</language>
-    <copyright>all rights reserved</copyright>
-    <lastBuildDate>Tue, 02 Apr 2024 00:56:05 +0200</lastBuildDate>
+    <copyright>2024</copyright>
+    <lastBuildDate>Tue, 02 Apr 2024 18:50:49 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TIL that San&#39;Orsola is pretty much the size of a small town</title>
+      <link>http://localhost:1313/en/posts/sant_orsola/</link>
+      <pubDate>Tue, 02 Apr 2024 18:50:49 +0200</pubDate>
+      <guid>http://localhost:1313/en/posts/sant_orsola/</guid>
+      <description>Easter night I had the pleasure to visit the Sant&amp;rsquo;Orsola policlinic&amp;rsquo;s ER. On the way there, I had to cross the entire hostpital&amp;rsquo;s grounds. I must say, they really are impressive. It felt like walking through a campus mixed with a park. Really nice.</description>
+    </item>
     <item>
       <title>An analysis of the correlation between gun regulation and public safety in the United States of America</title>
       <link>http://localhost:1313/en/posts/gun_deaths_paper/</link>
