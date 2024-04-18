@@ -1,6 +1,6 @@
 ---
 title: "La figura di Shostakovich come un Sisifo moderno"
-date: 2024-04-18
+date: 2024-04-18T03:28:00+02:00
 toc: true
 author: Francesco Prem Solidoro
 tags: ["Tesina", "Paper", "Music", "Filosofia"]
