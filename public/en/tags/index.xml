@@ -4,11 +4,39 @@
     <title>Tags on Soliprem</title>
     <link>http://localhost:1313/en/tags/</link>
     <description>Recent content in Tags on Soliprem</description>
-    <generator>Hugo 0.125.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2024</copyright>
-    <lastBuildDate>Tue, 02 Apr 2024 18:50:49 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 03:28:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filosofia</title>
+      <link>http://localhost:1313/en/tags/filosofia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/filosofia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/en/tags/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paper</title>
+      <link>http://localhost:1313/en/tags/paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/paper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tesina</title>
+      <link>http://localhost:1313/en/tags/tesina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/tesina/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Bologna</title>
       <link>http://localhost:1313/en/tags/bologna/</link>
@@ -31,13 +59,6 @@
       <description></description>
     </item>
     <item>
-      <title>Paper</title>
-      <link>http://localhost:1313/en/tags/paper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/paper/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Research</title>
       <link>http://localhost:1313/en/tags/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -49,27 +70,6 @@
       <link>http://localhost:1313/en/tags/statistics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/tags/statistics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Filosofia</title>
-      <link>http://localhost:1313/en/tags/filosofia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/filosofia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music</title>
-      <link>http://localhost:1313/en/tags/music/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tesina</title>
-      <link>http://localhost:1313/en/tags/tesina/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/tesina/</guid>
       <description></description>
     </item>
   </channel>
