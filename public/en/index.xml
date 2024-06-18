@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soliprem</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://soliprem.eu/en/</link>
     <description>Recent content on Soliprem</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2024</copyright>
     <lastBuildDate>Thu, 18 Apr 2024 03:28:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://soliprem.eu/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La figura di Shostakovich come un Sisifo moderno</title>
-      <link>http://localhost:1313/en/posts/shostakovich_sisifo/</link>
+      <link>https://soliprem.eu/en/posts/shostakovich_sisifo/</link>
       <pubDate>Thu, 18 Apr 2024 03:28:00 +0200</pubDate>
-      <guid>http://localhost:1313/en/posts/shostakovich_sisifo/</guid>
+      <guid>https://soliprem.eu/en/posts/shostakovich_sisifo/</guid>
       <description>Introduzione Nelle scienze politiche, esiste una visione delle interazioni sociali che presenta quest&amp;rsquo;ultime come una serie di &amp;lsquo;giochi&amp;rsquo;. In questi, ci sono tre possibili azioni che un partecipante messo in condizione di disagio da un&amp;rsquo;azione o situazione può scegliere di prendere: &amp;lsquo;Voice&amp;rsquo;, &amp;lsquo;Loyalty&amp;rsquo;, o &amp;lsquo;Exit&amp;rsquo;. Mentre Loyalty ed Exit sono molto autoesplicativi (corrispondono infatti all&amp;rsquo;adattarsi per convivere con la situazione, o uscirne interamente), voice è più interessante. Voice prevede infatti la possibilità di protestare, e quindi manifestare il proprio fastidio, nella speranza di ottenere un cambiamento favorevole.</description>
     </item>
     <item>
       <title>TIL that San&#39;Orsola is pretty much the size of a small town</title>
-      <link>http://localhost:1313/en/posts/sant_orsola/</link>
+      <link>https://soliprem.eu/en/posts/sant_orsola/</link>
       <pubDate>Tue, 02 Apr 2024 18:50:49 +0200</pubDate>
-      <guid>http://localhost:1313/en/posts/sant_orsola/</guid>
+      <guid>https://soliprem.eu/en/posts/sant_orsola/</guid>
       <description>Easter night I had the pleasure to visit the Sant&amp;rsquo;Orsola policlinic&amp;rsquo;s ER. On the way there, I had to cross the entire hostpital&amp;rsquo;s grounds. I must say, they really are impressive. It felt like walking through a campus mixed with a park. Really nice.</description>
     </item>
     <item>
       <title>An analysis of the correlation between gun regulation and public safety in the United States of America</title>
-      <link>http://localhost:1313/en/posts/gun_deaths_paper/</link>
+      <link>https://soliprem.eu/en/posts/gun_deaths_paper/</link>
       <pubDate>Tue, 02 Apr 2024 00:56:05 +0200</pubDate>
-      <guid>http://localhost:1313/en/posts/gun_deaths_paper/</guid>
+      <guid>https://soliprem.eu/en/posts/gun_deaths_paper/</guid>
       <description>Abstract&amp;mdash; The aim of this paper is to provde a summary analysis of the data regarding the effectiveness of gunrestriction policy in diminishing the numberof gun-related deaths. We do so by conducting an analysis of three different datasets, and by combining the data we gathered from them, and constructing a linear regression model. The constructed linear regression model shows a negative correlation between the gun-related death rate and the amount of legislation present within the state.</description>
     </item>
     <item>
       <title>Why</title>
-      <link>http://localhost:1313/en/posts/why/</link>
+      <link>https://soliprem.eu/en/posts/why/</link>
       <pubDate>Wed, 27 Mar 2024 06:10:08 +0100</pubDate>
-      <guid>http://localhost:1313/en/posts/why/</guid>
+      <guid>https://soliprem.eu/en/posts/why/</guid>
       <description>Why make a random website? Why make a random-ass website? There so many!&#xA;I simply don&amp;rsquo;t care. Why do people make social media accounts, if they&amp;rsquo;ve nothing to share? At least as I share my nothing into the void, I stand to learn something. Maybe some new components of hugo. Maybe, who knows, one day I&amp;rsquo;ll rewrite this all into go and htmx. I find intrinsic value in knowing that I likely stand to learn from whatever I&amp;rsquo;m doing at any given time.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/en/about/</link>
+      <link>https://soliprem.eu/en/about/</link>
       <pubDate>Wed, 27 Mar 2024 05:41:29 +0100</pubDate>
-      <guid>http://localhost:1313/en/about/</guid>
+      <guid>https://soliprem.eu/en/about/</guid>
       <description>My name is Francesco, and I&amp;rsquo;m a 21-years-old student at the university of Bologna. Right now I&amp;rsquo;m part of the Collegio Superiore, Bologna&amp;rsquo;s excellency school. I&amp;rsquo;m currently working towards a bachelor&amp;rsquo;s in Economics, Politics and Social Sciences. If you want to know more about why I made this website, check out this short post I made about it</description>
     </item>
     <item>
       <title>Beeper</title>
-      <link>http://localhost:1313/en/posts/beeper/</link>
+      <link>https://soliprem.eu/en/posts/beeper/</link>
       <pubDate>Wed, 24 May 2023 11:45:22 +0200</pubDate>
-      <guid>http://localhost:1313/en/posts/beeper/</guid>
+      <guid>https://soliprem.eu/en/posts/beeper/</guid>
       <description>What is Beeper Beeper is a messaging app that seeks to end the issue of fragmentation, by allowing users to use any of 14 currently supported protocols for their chats. These protocols include things like Whatsapp, Telegram, Discord, Slack and many more.&#xA;Recently my turn has arrived to access to Beeper&amp;rsquo;s open beta. I&amp;rsquo;ve had a chance to try it out for the past couple of days and I must say, I&amp;rsquo;m impressed.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/en/404/</link>
+      <link>https://soliprem.eu/en/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/404/</guid>
+      <guid>https://soliprem.eu/en/404/</guid>
       <description>404 oops, looks like you got to someplace which doesn&amp;rsquo;t exist.&#xA;Want some candy?🍬</description>
     </item>
   </channel>

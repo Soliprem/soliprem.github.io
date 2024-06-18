@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper on Soliprem</title>
-    <link>http://localhost:1313/en/tags/paper/</link>
+    <link>https://soliprem.eu/en/tags/paper/</link>
     <description>Recent content in Paper on Soliprem</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2024</copyright>
     <lastBuildDate>Thu, 18 Apr 2024 03:28:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/paper/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://soliprem.eu/en/tags/paper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La figura di Shostakovich come un Sisifo moderno</title>
-      <link>http://localhost:1313/en/posts/shostakovich_sisifo/</link>
+      <link>https://soliprem.eu/en/posts/shostakovich_sisifo/</link>
       <pubDate>Thu, 18 Apr 2024 03:28:00 +0200</pubDate>
-      <guid>http://localhost:1313/en/posts/shostakovich_sisifo/</guid>
+      <guid>https://soliprem.eu/en/posts/shostakovich_sisifo/</guid>
       <description>Introduzione Nelle scienze politiche, esiste una visione delle interazioni sociali che presenta quest&amp;rsquo;ultime come una serie di &amp;lsquo;giochi&amp;rsquo;. In questi, ci sono tre possibili azioni che un partecipante messo in condizione di disagio da un&amp;rsquo;azione o situazione può scegliere di prendere: &amp;lsquo;Voice&amp;rsquo;, &amp;lsquo;Loyalty&amp;rsquo;, o &amp;lsquo;Exit&amp;rsquo;. Mentre Loyalty ed Exit sono molto autoesplicativi (corrispondono infatti all&amp;rsquo;adattarsi per convivere con la situazione, o uscirne interamente), voice è più interessante. Voice prevede infatti la possibilità di protestare, e quindi manifestare il proprio fastidio, nella speranza di ottenere un cambiamento favorevole.</description>
     </item>
     <item>
       <title>An analysis of the correlation between gun regulation and public safety in the United States of America</title>
-      <link>http://localhost:1313/en/posts/gun_deaths_paper/</link>
+      <link>https://soliprem.eu/en/posts/gun_deaths_paper/</link>
       <pubDate>Tue, 02 Apr 2024 00:56:05 +0200</pubDate>
-      <guid>http://localhost:1313/en/posts/gun_deaths_paper/</guid>
+      <guid>https://soliprem.eu/en/posts/gun_deaths_paper/</guid>
       <description>Abstract&amp;mdash; The aim of this paper is to provde a summary analysis of the data regarding the effectiveness of gunrestriction policy in diminishing the numberof gun-related deaths. We do so by conducting an analysis of three different datasets, and by combining the data we gathered from them, and constructing a linear regression model. The constructed linear regression model shows a negative correlation between the gun-related death rate and the amount of legislation present within the state.</description>
     </item>
   </channel>

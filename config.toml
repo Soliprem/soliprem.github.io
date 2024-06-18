@@ -132,7 +132,7 @@ expiryDate = ["expiryDate"]
 
   [[menu.main]]
     name = "Posts"
-    url = "blog.soliprem.eu/"
+    url = "posts/"
     weight = 10
 
   [[menu.main]]
