@@ -1,20 +1,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Soliprem</title>
-		<link>https://soliprem.eu/en/posts/</link>
+		<link>http://localhost:1313/en/posts/</link>
 		<description>Recent content in Posts on Soliprem</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>2024</copyright>
-		<lastBuildDate>Thu, 18 Apr 2024 03:28:00 +0200</lastBuildDate>
-		<atom:link href="https://soliprem.eu/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		<lastBuildDate>Wed, 19 Jun 2024 10:15:05 +0200</lastBuildDate>
+		<atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Tolkien</title>
+			<link>http://localhost:1313/en/posts/majesty/</link>
+			<pubDate>Wed, 19 Jun 2024 10:15:05 +0200</pubDate>
+			
+			<guid>http://localhost:1313/en/posts/majesty/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<h1 id="the-unparalleled-majesty-of-the-lord-of-the-rings">The Unparalleled Majesty of &ldquo;The Lord of the Rings&rdquo;</h1>
+<p><a href="/">Back Home</a></p>
+<p><img src="/img/rivendell.png" alt="LOTR image artistmonkeys"></p>
+<blockquote>
+<p>&ldquo;I cordially dislike allegory in all its manifestations, and always have done so since I grew old and wary enough to detect its presence.
+I much prefer history, true or feigned, with its varied applicability to the thought and experience of readers.
+I think that many confuse &lsquo;applicability&rsquo; with &lsquo;allegory&rsquo;; but the one resides in the freedom of the reader, and the other in the purposed domination of the author.&rdquo;</p>
+</blockquote>
+<p>In the annals of fantasy literature and the broader realm of creative world-building, few sagas can rival the intricate tapestry woven by J.R.R. Tolkien in <em>The Lord of the Rings</em>. You can find the <a href="https://lotr.fandom.com/wiki/Main_Page">wiki here</a>.</p>
+<h2 id="introduction">Introduction</h2>
+<p>This series, a cornerstone of what I, in my many years as an <strong>Archmage</strong>, have come to recognize as the pinnacle of imaginative creation, stands unrivaled in its depth, complexity, and the sheer scope of its <em>legendarium</em>. As we embark on this exploration, let us delve into the reasons why this monumental work is celebrated as the finest in the world.</p>
+<h2 id="a-rich-tapestry-of-lore">A Rich Tapestry of Lore</h2>
+<p>One cannot simply discuss <em>The Lord of the Rings</em> without acknowledging the bedrock upon which it stands: <strong>The Silmarillion</strong>. This compendium of mythopoeic tales sets the stage for Middle-earth&rsquo;s history, from the creation myth of Eä to the epic sagas of the Elder Days. It is a testament to Tolkien&rsquo;s unparalleled skill as a linguist and myth-maker, crafting:</p>
+<ol>
+<li>An elaborate pantheon of deities (the <code>Valar</code> and <code>Maiar</code>)</li>
+<li>The tragic saga of the Noldor Elves</li>
+<li>The rise and fall of great kingdoms such as Gondolin and Númenor</li>
+</ol>
+<pre tabindex="0"><code>print(&#34;Lord&#34;)
+print(&#34;of&#34;)
+print(&#34;the&#34;)
+print(&#34;Rings&#34;)
+</code></pre><h2 id="the-art-of-world-building">The Art of <strong>World-Building</strong></h2>
+<h3 id="crafting-middle-earth">Crafting Middle-earth</h3>
+<p>Tolkien&rsquo;s Middle-earth is a realm of breathtaking diversity and realism, brought to life by his meticulous attention to detail. This world is characterized by:</p>
+<ul>
+<li><strong>Diverse Cultures and Languages</strong>: Each race, from the noble Elves to the sturdy Dwarves, is endowed with its own rich history, customs, and language. Tolkien, leveraging his expertise in philology, constructed languages such as Quenya and Sindarin, each with its own grammar and lexicon.</li>
+<li><strong>Geographical Realism</strong>: The landscape of Middle-earth, from the Shire&rsquo;s pastoral hills to the shadowy depths of Mordor, is depicted with such vividness that it feels as tangible as our own world.</li>
+<li><strong>Historical Depth</strong>: The legendarium is imbued with a sense of history, with ruins, artifacts, and lore that hint at bygone eras, giving the world a lived-in, authentic feel.</li>
+</ul>
+<h2 id="themes-of-timeless-relevance">Themes of <em>Timeless</em> Relevance</h2>
+<h3 id="the-struggle-of-good-vs-evil">The <em>Struggle</em> of Good vs. Evil</h3>
+<p>At its heart, <em>The Lord of the Rings</em> is a timeless narrative of the perennial struggle between light and darkness, a theme that resonates deeply with the human experience. The saga explores:</p>
+<ul>
+<li>The resilience of the human (and hobbit) spirit in the face of overwhelming odds</li>
+<li>The corrupting influence of power, epitomized by the One Ring</li>
+<li>The importance of friendship, loyalty, and sacrifice</li>
+</ul>
+<p>These universal themes lend the series a profound philosophical depth, making it a beacon of wisdom and insight for generations of readers.</p>
+<h2 id="a-legacy-unmatched">A Legacy <strong>Unmatched</strong></h2>
+<h3 id="the-influence-on-modern-fantasy">The Influence on Modern Fantasy</h3>
+<p>The shadow that <em>The Lord of the Rings</em> casts over the fantasy genre is both vast and deep, having inspired countless authors, artists, and filmmakers. Its legacy is evident in:</p>
+<ul>
+<li>The archetypal &ldquo;hero&rsquo;s journey&rdquo; that has become a staple of fantasy narratives</li>
+<li>The trope of the &ldquo;fellowship,&rdquo; a diverse group banding together to face a common foe</li>
+<li>The concept of a richly detailed fantasy world, which has become a benchmark for the genre</li>
+</ul>
+<h2 id="conclusion">Conclusion</h2>
+<p>As we stand at the threshold of this mystical realm, it is clear that <em>The Lord of the Rings</em> is not merely a series but a gateway to a world that continues to enchant and inspire. It is a beacon of imagination, a wellspring of wisdom, and a testament to the power of myth. In the grand tapestry of fantasy literature, Tolkien&rsquo;s masterpiece is the gleaming jewel in the crown, unmatched in its majesty and enduring in its legacy. As an Archmage who has traversed the myriad realms of magic and lore, I declare with utmost conviction: <em>The Lord of the Rings</em> reigns supreme as the greatest legendarium our world has ever known.</p>
+<p>Splendid! Then we have an accord: in the realm of fantasy and beyond, Tolkien&rsquo;s creation is unparalleled, a treasure trove of wisdom, wonder, and the indomitable spirit of adventure that dwells within us all.</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>La figura di Shostakovich come un Sisifo moderno</title>
-			<link>https://soliprem.eu/en/posts/shostakovich_sisifo/</link>
+			<link>http://localhost:1313/en/posts/shostakovich_sisifo/</link>
 			<pubDate>Thu, 18 Apr 2024 03:28:00 +0200</pubDate>
 			
-			<guid>https://soliprem.eu/en/posts/shostakovich_sisifo/</guid>
+			<guid>http://localhost:1313/en/posts/shostakovich_sisifo/</guid>
 			<description><![CDATA[%!s(<nil>)]]></description>
 			<content type="html"><![CDATA[<h2 id="introduzione">Introduzione</h2>
 <p>Nelle scienze politiche, esiste una visione delle interazioni sociali
@@ -182,10 +242,10 @@ possiamo sperare di trovare sopportazione.</p>
 		
 		<item>
 			<title>TIL that San&#39;Orsola is pretty much the size of a small town</title>
-			<link>https://soliprem.eu/en/posts/sant_orsola/</link>
+			<link>http://localhost:1313/en/posts/sant_orsola/</link>
 			<pubDate>Tue, 02 Apr 2024 18:50:49 +0200</pubDate>
 			
-			<guid>https://soliprem.eu/en/posts/sant_orsola/</guid>
+			<guid>http://localhost:1313/en/posts/sant_orsola/</guid>
 			<description><![CDATA[%!s(<nil>)]]></description>
 			<content type="html"><![CDATA[<p>Easter night I had the pleasure to visit the Sant&rsquo;Orsola policlinic&rsquo;s ER. On the way there, I had to cross the entire hostpital&rsquo;s grounds. I must say, they really are impressive. It felt like walking through a campus mixed with a park. Really nice.</p>
 ]]></content>
@@ -193,10 +253,10 @@ possiamo sperare di trovare sopportazione.</p>
 		
 		<item>
 			<title>An analysis of the correlation between gun regulation and public safety in the United States of America</title>
-			<link>https://soliprem.eu/en/posts/gun_deaths_paper/</link>
+			<link>http://localhost:1313/en/posts/gun_deaths_paper/</link>
 			<pubDate>Tue, 02 Apr 2024 00:56:05 +0200</pubDate>
 			
-			<guid>https://soliprem.eu/en/posts/gun_deaths_paper/</guid>
+			<guid>http://localhost:1313/en/posts/gun_deaths_paper/</guid>
 			<description><![CDATA[%!s(<nil>)]]></description>
 			<content type="html"><![CDATA[<p>   <em>Abstract</em>&mdash;
 The aim of this paper is to provde a summary analysis of the data regarding the effectiveness of gunrestriction policy in diminishing the numberof gun-related deaths. We do so by conducting an analysis of three different datasets, and by combining the data we gathered from them, and constructing a linear regression model. The constructed linear regression model shows a negative correlation between the gun-related death rate and the amount of legislation present within the state. This suggests that it&rsquo;s possible for legislation to have a positive effect on gun-related deaths.</p>
@@ -451,10 +511,10 @@ methodology, sections A, B and C)</p>
 		
 		<item>
 			<title>Why</title>
-			<link>https://soliprem.eu/en/posts/why/</link>
+			<link>http://localhost:1313/en/posts/why/</link>
 			<pubDate>Wed, 27 Mar 2024 06:10:08 +0100</pubDate>
 			
-			<guid>https://soliprem.eu/en/posts/why/</guid>
+			<guid>http://localhost:1313/en/posts/why/</guid>
 			<description><![CDATA[%!s(<nil>)]]></description>
 			<content type="html"><![CDATA[<h1 id="why-make-a-random-website">Why make a random website?</h1>
 <p>Why make a random-ass website? There so many!</p>
@@ -465,10 +525,10 @@ methodology, sections A, B and C)</p>
 		
 		<item>
 			<title>Beeper</title>
-			<link>https://soliprem.eu/en/posts/beeper/</link>
+			<link>http://localhost:1313/en/posts/beeper/</link>
 			<pubDate>Wed, 24 May 2023 11:45:22 +0200</pubDate>
 			
-			<guid>https://soliprem.eu/en/posts/beeper/</guid>
+			<guid>http://localhost:1313/en/posts/beeper/</guid>
 			<description><![CDATA[%!s(<nil>)]]></description>
 			<content type="html"><![CDATA[<h1 id="what-is-beeper">What is Beeper</h1>
 <p><a href="https://www.beeper.com">Beeper</a> is a messaging app that seeks to end the issue of fragmentation, by allowing users to use any of 14 currently supported protocols for their chats. These protocols include things like Whatsapp, Telegram, Discord, Slack and many more.<br>

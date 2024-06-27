@@ -2,60 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://soliprem.eu/en/tags/filosofia/</loc>
+    <loc>http://localhost:1313/en/posts/</loc>
+    <lastmod>2024-06-19T10:15:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2024-06-19T10:15:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2024-06-19T10:15:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/majesty/</loc>
+    <lastmod>2024-06-19T10:15:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/untagged/</loc>
+    <lastmod>2024-06-19T10:15:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/filosofia/</loc>
     <lastmod>2024-04-18T03:28:00+02:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/posts/shostakovich_sisifo/</loc>
+    <loc>http://localhost:1313/en/posts/shostakovich_sisifo/</loc>
     <lastmod>2024-04-18T03:28:00+02:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/tags/music/</loc>
+    <loc>http://localhost:1313/en/tags/music/</loc>
     <lastmod>2024-04-18T03:28:00+02:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/tags/paper/</loc>
+    <loc>http://localhost:1313/en/tags/paper/</loc>
     <lastmod>2024-04-18T03:28:00+02:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/posts/</loc>
+    <loc>http://localhost:1313/en/tags/tesina/</loc>
     <lastmod>2024-04-18T03:28:00+02:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/</loc>
-    <lastmod>2024-04-18T03:28:00+02:00</lastmod>
-  </url><url>
-    <loc>https://soliprem.eu/en/tags/</loc>
-    <lastmod>2024-04-18T03:28:00+02:00</lastmod>
-  </url><url>
-    <loc>https://soliprem.eu/en/tags/tesina/</loc>
-    <lastmod>2024-04-18T03:28:00+02:00</lastmod>
-  </url><url>
-    <loc>https://soliprem.eu/en/tags/bologna/</loc>
+    <loc>http://localhost:1313/en/tags/bologna/</loc>
     <lastmod>2024-04-02T18:50:49+02:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/tags/santorsola/</loc>
+    <loc>http://localhost:1313/en/tags/santorsola/</loc>
     <lastmod>2024-04-02T18:50:49+02:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/posts/sant_orsola/</loc>
+    <loc>http://localhost:1313/en/posts/sant_orsola/</loc>
     <lastmod>2024-04-02T18:50:49+02:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/posts/gun_deaths_paper/</loc>
+    <loc>http://localhost:1313/en/posts/gun_deaths_paper/</loc>
     <lastmod>2024-04-02T00:56:05+02:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/tags/guncontrol/</loc>
+    <loc>http://localhost:1313/en/tags/guncontrol/</loc>
     <lastmod>2024-04-02T00:56:05+02:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/tags/research/</loc>
+    <loc>http://localhost:1313/en/tags/research/</loc>
     <lastmod>2024-04-02T00:56:05+02:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/tags/statistics/</loc>
+    <loc>http://localhost:1313/en/tags/statistics/</loc>
     <lastmod>2024-04-02T00:56:05+02:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/posts/why/</loc>
+    <loc>http://localhost:1313/en/posts/why/</loc>
     <lastmod>2024-03-27T06:10:08+01:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/about/</loc>
+    <loc>http://localhost:1313/en/about/</loc>
     <lastmod>2024-03-27T05:41:29+01:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/posts/beeper/</loc>
+    <loc>http://localhost:1313/en/posts/beeper/</loc>
     <lastmod>2023-05-24T11:45:22+02:00</lastmod>
   </url><url>
-    <loc>https://soliprem.eu/en/404/</loc>
+    <loc>http://localhost:1313/en/404/</loc>
   </url>
 </urlset>
