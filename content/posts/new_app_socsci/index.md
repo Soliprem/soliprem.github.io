@@ -1,11 +1,13 @@
 ---
-title: "New_app_socsci"
+title: "New Approaches to Social Sciences"
 date: 2024-06-27T12:19:03+02:00
 draft: true
 toc: false
 images:
 tags:
-  - untagged
+  - Social Sciences
+  - LLM
+  - Theory
 ---
 
 # A new interdisciplinary approach to the study of social sciences | Introduction
@@ -159,4 +161,14 @@ incorporating its micro and macro-level analysis by either:
 
 It's important to note that Machine Learning Models are pretty much black-boxes,
 so if the aim it to reduce the level of heuristics we're utilising, the second
-option is probably preferable, although less straight-forward than the first.
+option is probably preferable, although less straight-forward than the first. So
+let's expand on it.
+
+The general idea of it is to utilise the adaptability of a LLM to conduct a more
+flexible poll, with questions changing and adapting depending on the input from
+the user. This allows to simulate the depth of Case Studies. It also potentially
+retains the increased reproducibility that we see when we apply technological
+solutions to problems, thus making it easily scalable to maintain large sample
+sizes.
+
+We will be analysing possible solutions in [future posts](index.xml).
