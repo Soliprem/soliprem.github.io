@@ -1,8 +1,9 @@
 ---
 title: "New Approaches to Social Sciences"
 date: 2024-06-27T12:19:03+02:00
-draft: true
-toc: false
+draft: false
+pin: false
+toc: true
 images:
 tags:
   - Social Sciences
